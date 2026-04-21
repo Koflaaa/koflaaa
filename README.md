@@ -15,3 +15,6 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/)
 [![Postgres](https://img.shields.io/badge/Postgres-316192?logo=postgresql&logoColor=fff)](https://www.postgresql.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff)](https://www.sqlite.org/)
+[![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver&logoColor=fff)](https://www.microsoft.com/en-us/sql-server)
