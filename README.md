@@ -18,3 +18,9 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff)](https://www.sqlite.org/)
 [![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver&logoColor=fff)](https://www.microsoft.com/en-us/sql-server)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)](https://www.php.net/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff)](https://mariadb.org/)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](https://vuejs.org/)
+[![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff)](https://flask.palletsprojects.com/)
+[![Peewee](https://img.shields.io/badge/Peewee-3776AB?logo=python&logoColor=fff)](https://docs.peewee-orm.com/)
+
