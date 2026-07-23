@@ -19,7 +19,7 @@
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](https://react.dev/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](https://vuejs.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff)](https://flask.palletsprojects.com/)
-[![Peewee](https://img.shields.io/badge/Peewee-3776AB?logo=python&logoColor=fff)](https://docs.peewee-orm.com/)
+[![Peewee](https://img.shields.io/badge/Peewee-3776AB?style=flat)](https://docs.peewee-orm.com/)
 
 ### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](https://www.mysql.com/)
