@@ -16,7 +16,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/docs/Web/CSS)
 
 ### Frameworks & Libraries
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)](https://react.dev/)
+[![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](https://react.dev/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](https://vuejs.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff)](https://flask.palletsprojects.com/)
 [![Peewee](https://img.shields.io/badge/Peewee-3776AB?logo=python&logoColor=fff)](https://docs.peewee-orm.com/)
@@ -30,4 +30,3 @@
 
 ### Tools
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)
-
