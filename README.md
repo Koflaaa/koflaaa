@@ -1,7 +1,7 @@
 <img src="https://github-stats-extended.vercel.app/api?username=koflaaa&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="200px" width="auto"/>
 
 <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=koflaaa&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="200px" width="auto"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=koflaaa&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" height="200px" width="auto"/>
     <img src="https://streak-stats.demolab.com/?user=koflaaa&theme=tokyonight&hide_border=true" height="200px" width="auto"/>
 </div>
 
