@@ -1,0 +1,50 @@
+ICH SUCHE:
+* Eine Beschäftigung als:
+Applikationsentwickler - Coder im 2. Lehrjahr
+
+* Mögliche Arbeitsorte:
+im Bezirk Villach oder Klagenfurt
+* Arbeitszeit:
+Vollzeit, Lehrstelle
+* Arbeitsantritt ab:
+sofort
+
+ICH BIETE:
+* Kompetenzen:
+- Grundlegende Kenntnisse in Programmierparadigmen:
+       - OOP (Objektorientiertes Programmieren)
+       - Prozedurales Programmieren
+- Grundlegende Kenntnisse im Bereich Softwareentwicklung in folgenden
+  Programmiersprachen:
+       - C# (mit WPF Anwendung), PHP, Python
+- Grundlegende Kenntnisse im Bereich Webentwicklung in folgenden Sprachen:
+       - HTML5, CSS3, JavaScript, PHP
+- Grundlegende Kenntnisse im Bereich Datenbanken in folgenden Sprachen und Typen
+       - MySQL, MSSQL
+       - Relationale Datenbanken
+- ICDL-Standard plus ICDL-Robotik
+- EFDL (Euro Finanzführerschein)
+- Kenntnisse in Arbeiten mit KI-Ressourcen wie ChatGPT, etc.
+
+* Berufsschule:
+- 1. und 2. Klasse der FBS Klagenfurt + St. Veit a.d. Glan
+
+* Sprachliche Kompetenzen:
+- Englisch:
+       - B1 Niveau
+- Deutsch:
+       - Muttersprache
+
+Stärken:
+       - Logisches Denkvermögen
+       - Geduld
+       - Humor (für gutes Arbeitsklima)
+       - Freude zum Lernen/Weiterbilden
+       - Stressresistent
+       - Teamfähig
+
+Schwächen:
+       - Ruhig
+       - Introvertiert
+
+Aktuell befinde ich mich als Lehrling im 2. Lehrjahr im Bereich Applikationsentwicklung - Coding am bfi-IT-L@B Villach, Digital Education. Unser triales Ausbildungssystem sieht es vor spätestens im 2. Lehrjahr einen wirtschaftlichen Betrieb zu finden und in diesem die LAP abzulegen und sich zu spezialisieren.
