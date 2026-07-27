@@ -1,0 +1,6 @@
+Titel|1234|344|Verlag1|Autor1|1957
+Die Tafelrunde der ITler|1234321|455|ITLAB|Schoblick|1959
+ITler in Disguise|1232|233|IT-L@B Villach|Barbara Salesch|1955
+Nein|1232|122|Nein1|Ja|1322
+1|123451|101|Verlag1|Autor1|1955
+2|123452|102|Verlag2|Autor2|1156

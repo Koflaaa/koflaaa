@@ -1,0 +1,14 @@
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack\bin\Debug\net8.0\BlackJack.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack\bin\Debug\net8.0\BlackJack.deps.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack\bin\Debug\net8.0\BlackJack.runtimeconfig.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack\bin\Debug\net8.0\BlackJack.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack\bin\Debug\net8.0\BlackJack.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack\obj\Debug\net8.0\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack\obj\Debug\net8.0\BlackJack.AssemblyInfoInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack\obj\Debug\net8.0\BlackJack.AssemblyInfo.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack\obj\Debug\net8.0\BlackJack.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack\obj\Debug\net8.0\BlackJack.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack\obj\Debug\net8.0\refint\BlackJack.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack\obj\Debug\net8.0\BlackJack.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack\obj\Debug\net8.0\BlackJack.genruntimeconfig.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack\obj\Debug\net8.0\ref\BlackJack.dll

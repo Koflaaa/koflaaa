@@ -1,0 +1,59 @@
+Dokumenation Odoo-Installationsvideo
+
+1. Aufgabestellung
+	- Installationshilfe
+	- Anleitung auf Deutsch
+	- Zum Thema Odoo
+	- Zum Mitmachen
+
+2. Zeit
+	- Insgesamte Stunden: 98,8
+
+3. Probleme/Herausforderungen
+	- Videodreh + Schnitt
+	- Ungenaue Aufgabenstellung welche im laufe der Arbeit zu Überforderung führten
+	- Installation auf mehrere Laptops versucht
+	- Unklare Deadlines, keine genauen Abgabentermine
+
+4. Lösungsansätze
+	- Mehrere Teammitglieder
+	- Auf einen funktionierenden Laptop beschränken
+	- Aufgabestellung in kleine Aufgabenpakete aufteilen
+	- Aufgabenstellung mit Projektleiter nochmal abklären
+	- Genaue Deadlines schaffen
+
+5. Aufgabenaufteilung
+	- Auftraggeber/Projektleitung (Video): Fr. Ley
+	- Teamleiter -> Kofler
+	- Installations- und Aufnahmeteam -> Kofler, Kern
+	- Videoediting -> Steiner
+	- Qualitätsmanagement -> Steiner, Kofler, Kern
+
+6. Ablauf
+	- Woche 1
+		- Schreiben eines Skripts um eine genaue Aufnahmestruktur zu schaffen
+	- Woche 2
+		- Fertigstellen des Skripts
+		- Absprache mit Teamleiter - Hr. Krawagna
+	- Woche 3
+		- Überarbeiten des Skripts
+		- Hinzufügen detailliertere Schritte
+		- Erstaufnahmen für Video
+	- Woche 4
+		- Anschauen der erst Aufnahmen mit Teamleiter
+		- Hinzufügen von fehlenden Skriptpunkten
+	- Woche 5
+		- Übernahme der Aufgabe durch Hr. Kofler
+ 		- Zweite Aufnahmen mit neuen Skriptpunkten
+	- Woche 6
+		- Überarbeiten der Skriptpunkte
+		- Neue Teammitglieder Fr. Kern und Hr. Steiner												
+	- Woche 7
+		- Beginn der Aufnahme eines neuen Videos
+	- Woche 8
+		- Weitere Aufnahmen
+		- Videoediting
+	- Woche 9
+		- finale Aufnahmen
+		- Finales Videoediting
+		- Vorstellung von Finalen Video an Projektleitung

@@ -1,0 +1,15 @@
+E:\IT-L@B\BORL\Softwareentwicklung\C#\ZahlenRateSpiel\bin\Debug\net5.0\ZahlenRateSpiel.exe
+E:\IT-L@B\BORL\Softwareentwicklung\C#\ZahlenRateSpiel\bin\Debug\net5.0\ZahlenRateSpiel.deps.json
+E:\IT-L@B\BORL\Softwareentwicklung\C#\ZahlenRateSpiel\bin\Debug\net5.0\ZahlenRateSpiel.runtimeconfig.json
+E:\IT-L@B\BORL\Softwareentwicklung\C#\ZahlenRateSpiel\bin\Debug\net5.0\ZahlenRateSpiel.runtimeconfig.dev.json
+E:\IT-L@B\BORL\Softwareentwicklung\C#\ZahlenRateSpiel\bin\Debug\net5.0\ZahlenRateSpiel.dll
+E:\IT-L@B\BORL\Softwareentwicklung\C#\ZahlenRateSpiel\bin\Debug\net5.0\ref\ZahlenRateSpiel.dll
+E:\IT-L@B\BORL\Softwareentwicklung\C#\ZahlenRateSpiel\bin\Debug\net5.0\ZahlenRateSpiel.pdb
+E:\IT-L@B\BORL\Softwareentwicklung\C#\ZahlenRateSpiel\obj\Debug\net5.0\ZahlenRateSpiel.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT-L@B\BORL\Softwareentwicklung\C#\ZahlenRateSpiel\obj\Debug\net5.0\ZahlenRateSpiel.AssemblyInfoInputs.cache
+E:\IT-L@B\BORL\Softwareentwicklung\C#\ZahlenRateSpiel\obj\Debug\net5.0\ZahlenRateSpiel.AssemblyInfo.cs
+E:\IT-L@B\BORL\Softwareentwicklung\C#\ZahlenRateSpiel\obj\Debug\net5.0\ZahlenRateSpiel.csproj.CoreCompileInputs.cache
+E:\IT-L@B\BORL\Softwareentwicklung\C#\ZahlenRateSpiel\obj\Debug\net5.0\ZahlenRateSpiel.dll
+E:\IT-L@B\BORL\Softwareentwicklung\C#\ZahlenRateSpiel\obj\Debug\net5.0\ref\ZahlenRateSpiel.dll
+E:\IT-L@B\BORL\Softwareentwicklung\C#\ZahlenRateSpiel\obj\Debug\net5.0\ZahlenRateSpiel.pdb
+E:\IT-L@B\BORL\Softwareentwicklung\C#\ZahlenRateSpiel\obj\Debug\net5.0\ZahlenRateSpiel.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bibliothek_OOP\bin\Debug\net5.0\Bibliothek_OOP.exe
+z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bibliothek_OOP\bin\Debug\net5.0\Bibliothek_OOP.deps.json
+z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bibliothek_OOP\bin\Debug\net5.0\Bibliothek_OOP.runtimeconfig.json
+z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bibliothek_OOP\bin\Debug\net5.0\Bibliothek_OOP.runtimeconfig.dev.json
+z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bibliothek_OOP\bin\Debug\net5.0\Bibliothek_OOP.dll
+z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bibliothek_OOP\bin\Debug\net5.0\Bibliothek_OOP.pdb
+z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bibliothek_OOP\obj\Debug\net5.0\Bibliothek_OOP.GeneratedMSBuildEditorConfig.editorconfig
+z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bibliothek_OOP\obj\Debug\net5.0\Bibliothek_OOP.AssemblyInfoInputs.cache
+z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bibliothek_OOP\obj\Debug\net5.0\Bibliothek_OOP.AssemblyInfo.cs
+z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bibliothek_OOP\obj\Debug\net5.0\Bibliothek_OOP.csproj.CoreCompileInputs.cache
+z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bibliothek_OOP\obj\Debug\net5.0\Bibliothek_OOP.dll
+z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bibliothek_OOP\obj\Debug\net5.0\Bibliothek_OOP.pdb
+z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bibliothek_OOP\obj\Debug\net5.0\Bibliothek_OOP.genruntimeconfig.cache
+z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bibliothek_OOP\obj\Debug\net5.0\ref\Bibliothek_OOP.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bibliothek_OOP\obj\Debug\net5.0\Bibliothek_OOP.csproj.AssemblyReference.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bibliothek_OOP\obj\Debug\net5.0\refint\Bibliothek_OOP.dll

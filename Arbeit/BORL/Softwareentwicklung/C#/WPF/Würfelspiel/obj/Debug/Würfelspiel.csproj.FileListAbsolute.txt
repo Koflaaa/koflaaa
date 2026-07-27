@@ -1,0 +1,10 @@
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Würfelspiel\bin\Debug\Würfelspiel.exe.config
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Würfelspiel\bin\Debug\Würfelspiel.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Würfelspiel\bin\Debug\Würfelspiel.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Würfelspiel\obj\Debug\Würfelspiel.csproj.AssemblyReference.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Würfelspiel\obj\Debug\Würfelspiel.csproj.SuggestedBindingRedirects.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Würfelspiel\obj\Debug\Würfelspiel.Properties.Resources.resources
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Würfelspiel\obj\Debug\Würfelspiel.csproj.GenerateResource.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Würfelspiel\obj\Debug\Würfelspiel.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Würfelspiel\obj\Debug\Würfelspiel.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Würfelspiel\obj\Debug\Würfelspiel.pdb

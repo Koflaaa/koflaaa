@@ -1,0 +1,37 @@
+G:\Visual Studios\64_Aufgaben\bin\Debug\64_Aufgaben.exe.config
+G:\Visual Studios\64_Aufgaben\bin\Debug\64_Aufgaben.exe
+G:\Visual Studios\64_Aufgaben\bin\Debug\64_Aufgaben.pdb
+G:\Visual Studios\64_Aufgaben\obj\Debug\64_Aufgaben.csproj.AssemblyReference.cache
+G:\Visual Studios\64_Aufgaben\obj\Debug\64_Aufgaben.csproj.CoreCompileInputs.cache
+G:\Visual Studios\64_Aufgaben\obj\Debug\64_Aufgaben.exe
+G:\Visual Studios\64_Aufgaben\obj\Debug\64_Aufgaben.pdb
+E:\Visual Studios\64_Aufgaben\bin\Debug\64_Aufgaben.exe.config
+E:\Visual Studios\64_Aufgaben\bin\Debug\64_Aufgaben.exe
+E:\Visual Studios\64_Aufgaben\bin\Debug\64_Aufgaben.pdb
+E:\Visual Studios\64_Aufgaben\obj\Debug\64_Aufgaben.csproj.CoreCompileInputs.cache
+E:\Visual Studios\64_Aufgaben\obj\Debug\64_Aufgaben.exe
+E:\Visual Studios\64_Aufgaben\obj\Debug\64_Aufgaben.pdb
+F:\Visual Studios\64_Aufgaben\bin\Debug\64_Aufgaben.exe.config
+F:\Visual Studios\64_Aufgaben\bin\Debug\64_Aufgaben.exe
+F:\Visual Studios\64_Aufgaben\bin\Debug\64_Aufgaben.pdb
+F:\Visual Studios\64_Aufgaben\obj\Debug\64_Aufgaben.csproj.AssemblyReference.cache
+F:\Visual Studios\64_Aufgaben\obj\Debug\64_Aufgaben.csproj.CoreCompileInputs.cache
+F:\Visual Studios\64_Aufgaben\obj\Debug\64_Aufgaben.exe
+F:\Visual Studios\64_Aufgaben\obj\Debug\64_Aufgaben.pdb
+E:\Visual Studios\64_Aufgaben\obj\Debug\64_Aufgaben.csproj.AssemblyReference.cache
+G:\Visual Studios\64_Aufgaben\obj\Debug\64_Aufgaben.csproj.SuggestedBindingRedirects.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\Softwareentwicklung\C#\64_Aufgaben\bin\Debug\64_Aufgaben.exe.config
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\Softwareentwicklung\C#\64_Aufgaben\bin\Debug\64_Aufgaben.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\Softwareentwicklung\C#\64_Aufgaben\bin\Debug\64_Aufgaben.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\Softwareentwicklung\C#\64_Aufgaben\obj\Debug\64_Aufgaben.csproj.AssemblyReference.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\Softwareentwicklung\C#\64_Aufgaben\obj\Debug\64_Aufgaben.csproj.SuggestedBindingRedirects.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\Softwareentwicklung\C#\64_Aufgaben\obj\Debug\64_Aufgaben.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\Softwareentwicklung\C#\64_Aufgaben\obj\Debug\64_Aufgaben.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\Softwareentwicklung\C#\64_Aufgaben\obj\Debug\64_Aufgaben.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\64_Aufgaben\bin\Debug\64_Aufgaben.exe.config
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\64_Aufgaben\bin\Debug\64_Aufgaben.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\64_Aufgaben\bin\Debug\64_Aufgaben.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\64_Aufgaben\obj\Debug\64_Aufgaben.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\64_Aufgaben\obj\Debug\64_Aufgaben.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\64_Aufgaben\obj\Debug\64_Aufgaben.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\64_Aufgaben\obj\Debug\64_Aufgaben.csproj.AssemblyReference.cache

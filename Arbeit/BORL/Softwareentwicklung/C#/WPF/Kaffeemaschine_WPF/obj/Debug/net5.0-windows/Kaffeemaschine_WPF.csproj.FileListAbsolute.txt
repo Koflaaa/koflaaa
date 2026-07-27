@@ -1,0 +1,5 @@
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Kaffeemaschine_WPF\obj\Debug\net5.0-windows\Kaffeemaschine_WPF.csprojAssemblyReference.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Kaffeemaschine_WPF\obj\Debug\net5.0-windows\MainWindow.g.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Kaffeemaschine_WPF\obj\Debug\net5.0-windows\App.g.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Kaffeemaschine_WPF\obj\Debug\net5.0-windows\Kaffeemaschine_WPF_MarkupCompile.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Kaffeemaschine_WPF\obj\Debug\net5.0-windows\Kaffeemaschine_WPF_MarkupCompile.lref

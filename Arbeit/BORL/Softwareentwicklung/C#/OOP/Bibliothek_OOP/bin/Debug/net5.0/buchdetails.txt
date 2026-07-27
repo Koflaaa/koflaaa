@@ -1,0 +1,20 @@
+Buchdetails:
+
+Titel (ISBN: 1234) hat 344 Seiten.
+Autor: Autor1, Verlag: Verlag1
+
+Die Tafelrunde der ITler (ISBN: 1234321) hat 455 Seiten.
+Autor: Schoblick, Verlag: ITLAB
+
+ITler in Disguise (ISBN: 1232) hat 233 Seiten.
+Autor: Barbara Salesch, Verlag: IT-L@B Villach
+
+Nein (ISBN: 1232) hat 122 Seiten.
+Autor: Ja, Verlag: Nein1
+
+1 (ISBN: 123451) hat 101 Seiten.
+Autor: Autor1, Verlag: Verlag1
+
+2 (ISBN: 123452) hat 102 Seiten.
+Autor: Autor2, Verlag: Verlag2
+

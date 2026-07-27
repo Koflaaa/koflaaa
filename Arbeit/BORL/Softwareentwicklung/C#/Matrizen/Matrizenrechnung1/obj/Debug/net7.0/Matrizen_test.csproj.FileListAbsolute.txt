@@ -1,0 +1,15 @@
+E:\Visual Studios\Matrizen_test\bin\Debug\net7.0\Matrizen_test.exe
+E:\Visual Studios\Matrizen_test\bin\Debug\net7.0\Matrizen_test.deps.json
+E:\Visual Studios\Matrizen_test\bin\Debug\net7.0\Matrizen_test.runtimeconfig.json
+E:\Visual Studios\Matrizen_test\bin\Debug\net7.0\Matrizen_test.dll
+E:\Visual Studios\Matrizen_test\bin\Debug\net7.0\Matrizen_test.pdb
+E:\Visual Studios\Matrizen_test\obj\Debug\net7.0\Matrizen_test.csproj.AssemblyReference.cache
+E:\Visual Studios\Matrizen_test\obj\Debug\net7.0\Matrizen_test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studios\Matrizen_test\obj\Debug\net7.0\Matrizen_test.AssemblyInfoInputs.cache
+E:\Visual Studios\Matrizen_test\obj\Debug\net7.0\Matrizen_test.AssemblyInfo.cs
+E:\Visual Studios\Matrizen_test\obj\Debug\net7.0\Matrizen_test.csproj.CoreCompileInputs.cache
+E:\Visual Studios\Matrizen_test\obj\Debug\net7.0\Matrizen_test.dll
+E:\Visual Studios\Matrizen_test\obj\Debug\net7.0\refint\Matrizen_test.dll
+E:\Visual Studios\Matrizen_test\obj\Debug\net7.0\Matrizen_test.pdb
+E:\Visual Studios\Matrizen_test\obj\Debug\net7.0\Matrizen_test.genruntimeconfig.cache
+E:\Visual Studios\Matrizen_test\obj\Debug\net7.0\ref\Matrizen_test.dll

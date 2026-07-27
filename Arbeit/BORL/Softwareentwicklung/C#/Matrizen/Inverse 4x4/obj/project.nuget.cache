@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ioH9fUHmwIWVrOw69nZCELy30dfschoDCdGTX4SrJZa4K2xFfHoG1eV6PE+U7ZqhOQhwV5cH/X2SMGxlFOGi9Q==",
+  "success": true,
+  "projectFilePath": "Z:\\Lehrlinge\\Gruppe S\\Taylor Kofler\\BORL\\Softwareentwicklung\\C#\\Matrizen\\Inverse 4x4\\Inverse 4x4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\viuser\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\viuser\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\viuser\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\viuser\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

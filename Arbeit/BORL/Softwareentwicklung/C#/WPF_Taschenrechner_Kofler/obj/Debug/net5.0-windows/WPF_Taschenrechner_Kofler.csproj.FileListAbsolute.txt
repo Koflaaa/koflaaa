@@ -1,0 +1,44 @@
+E:\Visual Studios\WPF_Taschenrechner_Kofler\bin\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.exe
+E:\Visual Studios\WPF_Taschenrechner_Kofler\bin\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.deps.json
+E:\Visual Studios\WPF_Taschenrechner_Kofler\bin\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.runtimeconfig.json
+E:\Visual Studios\WPF_Taschenrechner_Kofler\bin\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.runtimeconfig.dev.json
+E:\Visual Studios\WPF_Taschenrechner_Kofler\bin\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.dll
+E:\Visual Studios\WPF_Taschenrechner_Kofler\bin\Debug\net5.0-windows\ref\WPF_Taschenrechner_Kofler.dll
+E:\Visual Studios\WPF_Taschenrechner_Kofler\bin\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.pdb
+E:\Visual Studios\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.csproj.AssemblyReference.cache
+E:\Visual Studios\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\Visual Studios\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\App.g.cs
+E:\Visual Studios\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler_MarkupCompile.cache
+E:\Visual Studios\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler_MarkupCompile.lref
+E:\Visual Studios\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\MainWindow.baml
+E:\Visual Studios\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.g.resources
+E:\Visual Studios\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studios\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.AssemblyInfoInputs.cache
+E:\Visual Studios\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.AssemblyInfo.cs
+E:\Visual Studios\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.csproj.CoreCompileInputs.cache
+E:\Visual Studios\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.dll
+E:\Visual Studios\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\ref\WPF_Taschenrechner_Kofler.dll
+E:\Visual Studios\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.pdb
+E:\Visual Studios\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.genruntimeconfig.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\bin\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\bin\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.deps.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\bin\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.runtimeconfig.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\bin\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.runtimeconfig.dev.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\bin\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\bin\Debug\net5.0-windows\ref\WPF_Taschenrechner_Kofler.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\bin\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.csprojAssemblyReference.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\MainWindow.g.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\App.g.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler_MarkupCompile.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler_MarkupCompile.lref
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\MainWindow.baml
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.g.resources
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.AssemblyInfoInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.AssemblyInfo.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\ref\WPF_Taschenrechner_Kofler.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF_Taschenrechner_Kofler\obj\Debug\net5.0-windows\WPF_Taschenrechner_Kofler.genruntimeconfig.cache

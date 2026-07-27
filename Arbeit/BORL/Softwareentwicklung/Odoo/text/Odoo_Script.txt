@@ -1,0 +1,75 @@
+How to install Odoo. Odoo 1x1.
+
+Step 1.
+- Create a GitHub Account or Sign into it if you already own one.
+
+Step 2.
+- Create an SSH Key
+How?
+- Open PowerShell and Copy/Paste the following command into PowerShell:
+  - ssh-keygen -t ed25519 -C "your_email@example.com".
+- Should the previous command not work and an Error Drops, try the command below.
+  - ssh-keygen -t rsa -b 4096 -C "your_email@example.com".
+- Link SSH Key to your GitHub Account. You can find the SSH-Settings in the Account Settings.
+
+Step 3.
+ - Go to github.com/odoo/odoo and click on the 'Fork' button to create your own copy of the repository.
+
+Step 4.
+- First, check if Git is already installed on your device. Simply go into the Program Files and check if there's a Git file. If so, copy continue on
+  with the tutorial. If not, go to the Git-Website and download it for free and then continue on with the tutorial.
+How?
+- Copy the Address of your Git-File (Example: C:/Program Files/Git/) into the Systemvariables.
+  If you cant find them right away, type "Systemvariables" into the searchbar. After doing so, go ahead an click on "Enviromental Variables / Umgebungsvariablen".
+
+Step 5.	
+- Configure your Git to identify yourself as the author of your future constributions.
+ How?
+- Open GitBash and enter the following commands, each at a time:
+  - git config --global user.name "Your Name" -> Example: git config --global user.name "Max Mustermann"
+  - git config --global user.mail "Your GitHub mail" -> Example: git config --global user.mail "max.mustermann@gmail.com"
+
+Step 6.
+- Clone the Odoo repository, either with an HTTPS-Request or an SSH-Link:
+- Again, open your GitBash Program and enter the following commands:
+  - HTTPS: git clone https://github.com/odoo/odoo.git
+  - SSH: git clone git@github.com:odoo/odoo.git
+
+Step 7.
+- First, copy the file adresses from your Odoo file. Example: "C:/Users/viuser/Desktop/odoo".
+- After that, you open your GitBash Program or PowerShell again and enter the following commands:
+  - cd <Copied File path> -> example: "cd C:/Users/viuser/Desktop/odoo".
+  - git remote add dev git@github.com:<your_github_account>/odoo.git"
+ <your_guthub_account_email>: -> Your linked Account Name with the odoo Fork.
+
+Step 8.
+- Check if PostGres/pgAmin is installed on your device, if not, download it from the official Website.
+- If you downloaded and installed pgAdmin or already have it, open it and do the following steps:
+	Step 8.1.
+		- Open pgAdmin and double click on "Connect Server"
+		- Enter the name of the server (f.e. "PostgresSQL 17") and click "save"/"connect"
+	Step 8.2
+		- Go to the register "Object" -> "Create"->"Login/Group Role"
+		- Write a username in the field "Role Name" (for example/recommended "odoo")
+		- Go to the field "Definition" and enter a Password and click "save"
+		- Go to the field "Priviliges" and enable the two options "Can login?" and "Create Database?" and click "save".
+
+Step 9.
+- Open GitBash and copy the link of your odoo file-address.
+- Use the copied file-address for the following command.
+- example: cd C:/User/Desktop/odoo -> This links to the file we want to use, which is the odoo-file.
+- After copy-pasting the previous command line, copy the following command into GitBash:
+  - python odoo-bin -r odoo -w <User example: viuser> --addons-path=addons -u odoo
+- Copy-Paste the previous command
+
+
+
+Video, in kleine Teile auflösen, Text überlegen, Plan erstellen, Kern um Hilfe bitte
+
+Datenbank: odoo.com/documentation/17.0/de/administration/on_premise/source.html
+1. PostGres Installieren
+2. Doppelklick auf Server um Verbindung herzustellen
+3. Wählen: Create-Object-Login/Group Role
+4. Benutzernamen in das Feld "Role Name" eintragen z.B. "odoo"
+5. Öffnen Register "Definition" und geben Sie das Passwort ein (z.B. odoo) und speichern
+6. Öffnen Register "Priviliges und setzten "Can Login" und "Create Database" auf "Ja"

@@ -1,0 +1,16 @@
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\übungsAufgabe_oop\bin\Debug\net5.0\übungsAufgabe_oop.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\übungsAufgabe_oop\bin\Debug\net5.0\übungsAufgabe_oop.deps.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\übungsAufgabe_oop\bin\Debug\net5.0\übungsAufgabe_oop.runtimeconfig.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\übungsAufgabe_oop\bin\Debug\net5.0\übungsAufgabe_oop.runtimeconfig.dev.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\übungsAufgabe_oop\bin\Debug\net5.0\übungsAufgabe_oop.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\übungsAufgabe_oop\bin\Debug\net5.0\ref\übungsAufgabe_oop.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\übungsAufgabe_oop\bin\Debug\net5.0\übungsAufgabe_oop.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\übungsAufgabe_oop\obj\Debug\net5.0\übungsAufgabe_oop.csproj.AssemblyReference.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\übungsAufgabe_oop\obj\Debug\net5.0\übungsAufgabe_oop.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\übungsAufgabe_oop\obj\Debug\net5.0\übungsAufgabe_oop.AssemblyInfoInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\übungsAufgabe_oop\obj\Debug\net5.0\übungsAufgabe_oop.AssemblyInfo.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\übungsAufgabe_oop\obj\Debug\net5.0\übungsAufgabe_oop.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\übungsAufgabe_oop\obj\Debug\net5.0\übungsAufgabe_oop.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\übungsAufgabe_oop\obj\Debug\net5.0\ref\übungsAufgabe_oop.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\übungsAufgabe_oop\obj\Debug\net5.0\übungsAufgabe_oop.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\übungsAufgabe_oop\obj\Debug\net5.0\übungsAufgabe_oop.genruntimeconfig.cache

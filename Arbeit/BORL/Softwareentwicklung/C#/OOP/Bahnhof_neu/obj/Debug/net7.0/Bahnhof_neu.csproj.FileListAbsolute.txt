@@ -1,0 +1,28 @@
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\obj\Debug\net7.0\Bahnhof_neu.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\obj\Debug\net7.0\Bahnhof_neu.AssemblyInfoInputs.cache
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\obj\Debug\net7.0\Bahnhof_neu.AssemblyInfo.cs
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\obj\Debug\net7.0\Bahnhof_neu.csproj.CoreCompileInputs.cache
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\bin\Debug\net7.0\Bahnhof_neu.exe
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\bin\Debug\net7.0\Bahnhof_neu.deps.json
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\bin\Debug\net7.0\Bahnhof_neu.runtimeconfig.json
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\bin\Debug\net7.0\Bahnhof_neu.dll
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\bin\Debug\net7.0\Bahnhof_neu.pdb
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\obj\Debug\net7.0\Bahnhof_neu.dll
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\obj\Debug\net7.0\refint\Bahnhof_neu.dll
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\obj\Debug\net7.0\Bahnhof_neu.pdb
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\obj\Debug\net7.0\Bahnhof_neu.genruntimeconfig.cache
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\obj\Debug\net7.0\ref\Bahnhof_neu.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\bin\Debug\net7.0\Bahnhof_neu.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\bin\Debug\net7.0\Bahnhof_neu.deps.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\bin\Debug\net7.0\Bahnhof_neu.runtimeconfig.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\bin\Debug\net7.0\Bahnhof_neu.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\bin\Debug\net7.0\Bahnhof_neu.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\obj\Debug\net7.0\Bahnhof_neu.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\obj\Debug\net7.0\Bahnhof_neu.AssemblyInfoInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\obj\Debug\net7.0\Bahnhof_neu.AssemblyInfo.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\obj\Debug\net7.0\Bahnhof_neu.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\obj\Debug\net7.0\Bahnhof_neu.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\obj\Debug\net7.0\refint\Bahnhof_neu.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\obj\Debug\net7.0\Bahnhof_neu.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\obj\Debug\net7.0\Bahnhof_neu.genruntimeconfig.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Bahnhof_neu\obj\Debug\net7.0\ref\Bahnhof_neu.dll

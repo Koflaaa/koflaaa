@@ -1,0 +1,80 @@
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.exe
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.deps.json
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.runtimeconfig.json
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.dll
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.pdb
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee_MarkupCompile.cache
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee_MarkupCompile.lref
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.g.resources
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.AssemblyInfo.cs
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.dll
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\obj\Debug\net6.0-windows\refint\UltraKaffee.dll
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.pdb
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.genruntimeconfig.cache
+C:\Users\ACER\Documents\VS_C#\UltraKaffee\obj\Debug\net6.0-windows\ref\UltraKaffee.dll
+F:\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.exe
+F:\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.deps.json
+F:\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.runtimeconfig.json
+F:\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.dll
+F:\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.pdb
+F:\UltraKaffee\obj\Debug\net6.0-windows\MainWindow.g.cs
+F:\UltraKaffee\obj\Debug\net6.0-windows\App.g.cs
+F:\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee_MarkupCompile.cache
+F:\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee_MarkupCompile.lref
+F:\UltraKaffee\obj\Debug\net6.0-windows\MainWindow.baml
+F:\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.g.resources
+F:\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.GeneratedMSBuildEditorConfig.editorconfig
+F:\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.AssemblyInfoInputs.cache
+F:\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.AssemblyInfo.cs
+F:\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.csproj.CoreCompileInputs.cache
+F:\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.dll
+F:\UltraKaffee\obj\Debug\net6.0-windows\refint\UltraKaffee.dll
+F:\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.pdb
+F:\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.genruntimeconfig.cache
+F:\UltraKaffee\obj\Debug\net6.0-windows\ref\UltraKaffee.dll
+C:\Users\kleer\Desktop\UltraKaffee\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\kleer\Desktop\UltraKaffee\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\kleer\Desktop\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee_MarkupCompile.cache
+C:\Users\kleer\Desktop\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee_MarkupCompile.lref
+C:\Users\kleer\Desktop\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.dll
+C:\Users\kleer\Desktop\UltraKaffee\obj\Debug\net6.0-windows\refint\UltraKaffee.dll
+C:\Users\kleer\Desktop\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.pdb
+C:\Users\kleer\Desktop\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.exe
+C:\Users\kleer\Desktop\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.deps.json
+C:\Users\kleer\Desktop\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.runtimeconfig.json
+C:\Users\kleer\Desktop\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.dll
+C:\Users\kleer\Desktop\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.pdb
+C:\Users\kleer\Desktop\UltraKaffee\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\kleer\Desktop\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.g.resources
+C:\Users\kleer\Desktop\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kleer\Desktop\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.AssemblyInfoInputs.cache
+C:\Users\kleer\Desktop\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.AssemblyInfo.cs
+C:\Users\kleer\Desktop\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.csproj.CoreCompileInputs.cache
+C:\Users\kleer\Desktop\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.genruntimeconfig.cache
+C:\Users\kleer\Desktop\UltraKaffee\obj\Debug\net6.0-windows\ref\UltraKaffee.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.deps.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.runtimeconfig.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\bin\Debug\net6.0-windows\UltraKaffee.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\obj\Debug\net6.0-windows\MainWindow.g.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\obj\Debug\net6.0-windows\App.g.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee_MarkupCompile.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee_MarkupCompile.lref
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\obj\Debug\net6.0-windows\MainWindow.baml
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.g.resources
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.AssemblyInfoInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.AssemblyInfo.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\obj\Debug\net6.0-windows\refint\UltraKaffee.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\obj\Debug\net6.0-windows\UltraKaffee.genruntimeconfig.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee\obj\Debug\net6.0-windows\ref\UltraKaffee.dll

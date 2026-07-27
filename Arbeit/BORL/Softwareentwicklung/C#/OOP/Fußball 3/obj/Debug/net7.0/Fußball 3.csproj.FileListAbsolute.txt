@@ -1,0 +1,28 @@
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Fußball 3\bin\Debug\net7.0\Fußball 3.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Fußball 3\bin\Debug\net7.0\Fußball 3.deps.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Fußball 3\bin\Debug\net7.0\Fußball 3.runtimeconfig.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Fußball 3\bin\Debug\net7.0\Fußball 3.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Fußball 3\bin\Debug\net7.0\Fußball 3.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Fußball 3\obj\Debug\net7.0\Fußball 3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Fußball 3\obj\Debug\net7.0\Fußball 3.AssemblyInfoInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Fußball 3\obj\Debug\net7.0\Fußball 3.AssemblyInfo.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Fußball 3\obj\Debug\net7.0\Fußball 3.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Fußball 3\obj\Debug\net7.0\Fußball 3.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Fußball 3\obj\Debug\net7.0\refint\Fußball 3.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Fußball 3\obj\Debug\net7.0\Fußball 3.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Fußball 3\obj\Debug\net7.0\Fußball 3.genruntimeconfig.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\Fußball 3\obj\Debug\net7.0\ref\Fußball 3.dll
+F:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball 3\bin\Debug\net7.0\Fußball 3.exe
+F:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball 3\bin\Debug\net7.0\Fußball 3.deps.json
+F:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball 3\bin\Debug\net7.0\Fußball 3.runtimeconfig.json
+F:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball 3\bin\Debug\net7.0\Fußball 3.dll
+F:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball 3\bin\Debug\net7.0\Fußball 3.pdb
+F:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball 3\obj\Debug\net7.0\Fußball 3.GeneratedMSBuildEditorConfig.editorconfig
+F:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball 3\obj\Debug\net7.0\Fußball 3.AssemblyInfoInputs.cache
+F:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball 3\obj\Debug\net7.0\Fußball 3.AssemblyInfo.cs
+F:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball 3\obj\Debug\net7.0\Fußball 3.csproj.CoreCompileInputs.cache
+F:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball 3\obj\Debug\net7.0\Fußball 3.dll
+F:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball 3\obj\Debug\net7.0\refint\Fußball 3.dll
+F:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball 3\obj\Debug\net7.0\Fußball 3.pdb
+F:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball 3\obj\Debug\net7.0\Fußball 3.genruntimeconfig.cache
+F:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball 3\obj\Debug\net7.0\ref\Fußball 3.dll

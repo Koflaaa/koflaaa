@@ -1,0 +1,15 @@
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee_V2\obj\Debug\UltraKaffee_V2.csproj.AssemblyReference.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee_V2\obj\Debug\MainWindow.g.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee_V2\obj\Debug\App.g.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee_V2\obj\Debug\UltraKaffee_V2_MarkupCompile.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee_V2\obj\Debug\UltraKaffee_V2_MarkupCompile.lref
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee_V2\bin\Debug\UltraKaffee_V2.exe.config
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee_V2\bin\Debug\UltraKaffee_V2.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee_V2\bin\Debug\UltraKaffee_V2.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee_V2\obj\Debug\MainWindow.baml
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee_V2\obj\Debug\UltraKaffee_V2.g.resources
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee_V2\obj\Debug\UltraKaffee_V2.Properties.Resources.resources
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee_V2\obj\Debug\UltraKaffee_V2.csproj.GenerateResource.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee_V2\obj\Debug\UltraKaffee_V2.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee_V2\obj\Debug\UltraKaffee_V2.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\UltraKaffee_V2\obj\Debug\UltraKaffee_V2.pdb

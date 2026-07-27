@@ -1,0 +1,32 @@
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Fußball1_oop\bin\Debug\net5.0\Fußball1_oop.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Fußball1_oop\bin\Debug\net5.0\Fußball1_oop.deps.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Fußball1_oop\bin\Debug\net5.0\Fußball1_oop.runtimeconfig.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Fußball1_oop\bin\Debug\net5.0\Fußball1_oop.runtimeconfig.dev.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Fußball1_oop\bin\Debug\net5.0\Fußball1_oop.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Fußball1_oop\bin\Debug\net5.0\Fußball1_oop.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Fußball1_oop\obj\Debug\net5.0\Fußball1_oop.csproj.AssemblyReference.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Fußball1_oop\obj\Debug\net5.0\Fußball1_oop.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Fußball1_oop\obj\Debug\net5.0\Fußball1_oop.AssemblyInfoInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Fußball1_oop\obj\Debug\net5.0\Fußball1_oop.AssemblyInfo.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Fußball1_oop\obj\Debug\net5.0\Fußball1_oop.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Fußball1_oop\obj\Debug\net5.0\Fußball1_oop.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Fußball1_oop\obj\Debug\net5.0\ref\Fußball1_oop.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Fußball1_oop\obj\Debug\net5.0\Fußball1_oop.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Fußball1_oop\obj\Debug\net5.0\Fußball1_oop.genruntimeconfig.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Fußball1_oop\bin\Debug\net5.0\ref\Fußball1_oop.dll
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball1_oop\bin\Debug\net5.0\Fußball1_oop.exe
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball1_oop\bin\Debug\net5.0\Fußball1_oop.deps.json
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball1_oop\bin\Debug\net5.0\Fußball1_oop.runtimeconfig.json
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball1_oop\bin\Debug\net5.0\Fußball1_oop.runtimeconfig.dev.json
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball1_oop\bin\Debug\net5.0\Fußball1_oop.dll
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball1_oop\bin\Debug\net5.0\ref\Fußball1_oop.dll
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball1_oop\bin\Debug\net5.0\Fußball1_oop.pdb
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball1_oop\obj\Debug\net5.0\Fußball1_oop.csproj.AssemblyReference.cache
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball1_oop\obj\Debug\net5.0\Fußball1_oop.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball1_oop\obj\Debug\net5.0\Fußball1_oop.AssemblyInfoInputs.cache
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball1_oop\obj\Debug\net5.0\Fußball1_oop.AssemblyInfo.cs
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball1_oop\obj\Debug\net5.0\Fußball1_oop.csproj.CoreCompileInputs.cache
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball1_oop\obj\Debug\net5.0\Fußball1_oop.dll
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball1_oop\obj\Debug\net5.0\ref\Fußball1_oop.dll
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball1_oop\obj\Debug\net5.0\Fußball1_oop.pdb
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Fußball1_oop\obj\Debug\net5.0\Fußball1_oop.genruntimeconfig.cache

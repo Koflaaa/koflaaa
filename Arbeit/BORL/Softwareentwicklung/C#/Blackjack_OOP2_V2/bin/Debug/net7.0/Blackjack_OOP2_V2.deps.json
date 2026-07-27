@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Blackjack_OOP2_V2/1.0.0": {
+        "runtime": {
+          "Blackjack_OOP2_V2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Blackjack_OOP2_V2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

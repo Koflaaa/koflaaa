@@ -1,0 +1,14 @@
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack_V2\bin\Debug\net7.0\BlackJack_V2.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack_V2\bin\Debug\net7.0\BlackJack_V2.deps.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack_V2\bin\Debug\net7.0\BlackJack_V2.runtimeconfig.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack_V2\bin\Debug\net7.0\BlackJack_V2.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack_V2\bin\Debug\net7.0\BlackJack_V2.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack_V2\obj\Debug\net7.0\BlackJack_V2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack_V2\obj\Debug\net7.0\BlackJack_V2.AssemblyInfoInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack_V2\obj\Debug\net7.0\BlackJack_V2.AssemblyInfo.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack_V2\obj\Debug\net7.0\BlackJack_V2.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack_V2\obj\Debug\net7.0\BlackJack_V2.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack_V2\obj\Debug\net7.0\refint\BlackJack_V2.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack_V2\obj\Debug\net7.0\BlackJack_V2.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack_V2\obj\Debug\net7.0\BlackJack_V2.genruntimeconfig.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\OOP\BlackJack_V2\obj\Debug\net7.0\ref\BlackJack_V2.dll

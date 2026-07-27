@@ -1,0 +1,62 @@
+
+Odoo 1x1 – How to Install Odoo (Developer Setup)
+
+Step 1: GitHub Account
+- Create a GitHub account or sign in to your existing one.
+
+Step 2: Generate an SSH Key
+- Open PowerShell and run:
+  ssh-keygen -t ed25519 -C "your_email@example.com"
+- If that doesn’t work:
+  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+- Add the public key to GitHub under Settings > SSH and GPG keys.
+
+Step 3: Fork the Odoo Repository
+- Go to https://github.com/odoo/odoo and click Fork.
+
+Step 4: Install Git
+- Check if Git is installed (search for it in Program Files).
+- If not, download it from https://git-scm.com.
+- Add Git to your system's PATH:
+  Search for "Environment Variables", then edit PATH to include:
+  C:\Program Files\Git\bin
+
+Step 5: Configure Git
+- Open Git Bash:
+  git config --global user.name "Your Name"
+  git config --global user.email "your_email@example.com"
+
+Step 6: Clone the Odoo Repository
+- In Git Bash:
+  git clone git@github.com:odoo/odoo.git
+  Or via HTTPS:
+  git clone https://github.com/odoo/odoo.git
+
+Step 7: Add Remote for Your Fork
+- Navigate to your Odoo folder:
+  cd C:/Users/YourName/Desktop/odoo
+  git remote add dev git@github.com:your_github_username/odoo.git
+
+Step 8: Install Python and Set Up Virtual Environment
+- Make sure Python (>= 3.8) is installed. Then:
+  python -m venv venv
+  venv\Scripts\activate        # On Windows
+  # source venv/bin/activate   # On Mac/Linux
+
+Step 9: Install Odoo Dependencies
+- Inside your virtual environment:
+  pip install -r requirements.txt
+
+Step 10: Install PostgreSQL
+- Download and install from https://www.postgresql.org/download
+- Create a PostgreSQL user named 'odoo' with superuser rights:
+  createuser -s odoo
+  # or via pgAdmin on Windows
+
+Step 11: Run Odoo
+- Navigate to the Odoo folder:
+  cd C:/Users/YourName/Desktop/odoo
+- Run Odoo:
+  python odoo-bin -r odoo -w YourWindowsUsername --addons-path=addons -u odoo
+- Open http://localhost:8069 in your browser
+

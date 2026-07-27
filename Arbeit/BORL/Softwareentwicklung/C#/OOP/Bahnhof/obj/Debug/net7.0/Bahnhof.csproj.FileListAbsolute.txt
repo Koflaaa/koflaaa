@@ -1,0 +1,4 @@
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Bahnhof\obj\Debug\net7.0\Bahnhof.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Bahnhof\obj\Debug\net7.0\Bahnhof.AssemblyInfoInputs.cache
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Bahnhof\obj\Debug\net7.0\Bahnhof.AssemblyInfo.cs
+E:\IT-L@B\BORL\Softwareentwicklung\C#\OOP\Bahnhof\obj\Debug\net7.0\Bahnhof.csproj.CoreCompileInputs.cache

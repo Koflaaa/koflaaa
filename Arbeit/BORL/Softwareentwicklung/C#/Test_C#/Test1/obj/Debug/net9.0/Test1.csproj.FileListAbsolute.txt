@@ -1,0 +1,14 @@
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Test_C#\Test1\obj\Debug\net9.0\Test1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Test_C#\Test1\obj\Debug\net9.0\Test1.AssemblyInfoInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Test_C#\Test1\obj\Debug\net9.0\Test1.AssemblyInfo.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Test_C#\Test1\obj\Debug\net9.0\Test1.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Test_C#\Test1\bin\Debug\net9.0\Test1.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Test_C#\Test1\bin\Debug\net9.0\Test1.deps.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Test_C#\Test1\bin\Debug\net9.0\Test1.runtimeconfig.json
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Test_C#\Test1\bin\Debug\net9.0\Test1.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Test_C#\Test1\bin\Debug\net9.0\Test1.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Test_C#\Test1\obj\Debug\net9.0\Test1.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Test_C#\Test1\obj\Debug\net9.0\refint\Test1.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Test_C#\Test1\obj\Debug\net9.0\Test1.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Test_C#\Test1\obj\Debug\net9.0\Test1.genruntimeconfig.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\Test_C#\Test1\obj\Debug\net9.0\ref\Test1.dll

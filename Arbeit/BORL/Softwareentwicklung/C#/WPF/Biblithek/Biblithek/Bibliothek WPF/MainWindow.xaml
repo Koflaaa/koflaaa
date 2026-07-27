@@ -1,0 +1,68 @@
+﻿<Window x:Class="Bibliothek_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bibliothek_WPF"
+        mc:Ignorable="d"
+        Title="Bibliothek" Height="450" Width="800">
+    <Grid>
+        <TabControl>
+            <!-- Tab für Bücher -->
+            <TabItem Header="Bücher">
+                <StackPanel>
+                    <!-- Eingabefelder für Buchtitel und Seiten -->
+                    <TextBox x:Name="BuchTitelTextBox" Text="Titel" GotFocus="ClearTextOnFocus" Margin="10"/>
+                    <TextBox x:Name="BuchSeitenTextBox" Text="Seiten" GotFocus="ClearTextOnFocus" Margin="10"/>
+                    <!-- Button zum Hinzufügen eines Buchs -->
+                    <Button Content="Buch hinzufügen" Click="AddBuch_Click" Margin="10"/>
+                    <!-- Liste der Bücher -->
+                    <ListBox x:Name="BuecherListBox" DisplayMemberPath="Titel" Margin="10"/>
+                    <!-- Button zum Löschen eines Buchs -->
+                    <Button Content="Buch löschen" Click="DeleteBuch_Click" Margin="10"/>
+                    <!-- Button zur Berechnung der Gesamtseitenzahl -->
+                    <Button Content="Gesamtseitenzahl berechnen" Click="CalculateTotalPages_Click" Margin="10"/>
+                </StackPanel>
+            </TabItem>
+            <!-- Tab für Verlage -->
+            <TabItem Header="Verlage">
+                <StackPanel>
+                    <!-- Eingabefeld für Verlagsname -->
+                    <TextBox x:Name="VerlagNameTextBox" Text="Name" GotFocus="ClearTextOnFocus" Margin="10"/>
+                    <!-- Button zum Hinzufügen eines Verlags -->
+                    <Button Content="Verlag hinzufügen" Click="AddVerlag_Click" Margin="10"/>
+                    <!-- Liste der Verlage -->
+                    <ListBox x:Name="VerlageListBox" DisplayMemberPath="Name" Margin="10"/>
+                    <!-- Button zum Löschen eines Verlags -->
+                    <Button Content="Verlag löschen" Click="DeleteVerlag_Click" Margin="10"/>
+                </StackPanel>
+            </TabItem>
+            <!-- Tab für Autoren -->
+            <TabItem Header="Autoren">
+                <StackPanel>
+                    <!-- Eingabefeld für Autorenname -->
+                    <TextBox x:Name="AutorNameTextBox" Text="Name" GotFocus="ClearTextOnFocus" Margin="10"/>
+                    <!-- Button zum Hinzufügen eines Autors -->
+                    <Button Content="Autor hinzufügen" Click="AddAutor_Click" Margin="10"/>
+                    <!-- Liste der Autoren -->
+                    <ListBox x:Name="AutorenListBox" DisplayMemberPath="Name" Margin="10"/>
+                    <!-- Button zum Löschen eines Autors -->
+                    <Button Content="Autor löschen" Click="DeleteAutor_Click" Margin="10"/>
+                </StackPanel>
+            </TabItem>
+            <!-- Tab für Orte -->
+            <TabItem Header="Orte">
+                <StackPanel>
+                    <!-- Eingabefeld für Ortsname -->
+                    <TextBox x:Name="OrtNameTextBox" Text="Name" GotFocus="ClearTextOnFocus" Margin="10"/>
+                    <!-- Button zum Hinzufügen eines Orts -->
+                    <Button Content="Ort hinzufügen" Click="AddOrt_Click" Margin="10"/>
+                    <!-- Liste der Orte -->
+                    <ListBox x:Name="OrteListBox" DisplayMemberPath="Name" Margin="10"/>
+                    <!-- Button zum Löschen eines Orts -->
+                    <Button Content="Ort löschen" Click="DeleteOrt_Click" Margin="10"/>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

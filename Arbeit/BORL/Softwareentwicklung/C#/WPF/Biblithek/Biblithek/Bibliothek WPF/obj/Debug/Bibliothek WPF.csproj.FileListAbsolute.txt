@@ -1,0 +1,60 @@
+Z:\Lehrlinge\Gruppe S\Alexander Krawagna\IT-L@B\Ley Borjanka\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\MainWindow.g.cs
+Z:\Lehrlinge\Gruppe S\Alexander Krawagna\IT-L@B\Ley Borjanka\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\App.g.cs
+Z:\Lehrlinge\Gruppe S\Alexander Krawagna\IT-L@B\Ley Borjanka\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF_MarkupCompile.cache
+Z:\Lehrlinge\Gruppe S\Alexander Krawagna\IT-L@B\Ley Borjanka\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\bin\Debug\Bibliothek WPF.exe.config
+Z:\Lehrlinge\Gruppe S\Alexander Krawagna\IT-L@B\Ley Borjanka\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\bin\Debug\Bibliothek WPF.exe
+Z:\Lehrlinge\Gruppe S\Alexander Krawagna\IT-L@B\Ley Borjanka\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\bin\Debug\Bibliothek WPF.pdb
+Z:\Lehrlinge\Gruppe S\Alexander Krawagna\IT-L@B\Ley Borjanka\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\MainWindow.baml
+Z:\Lehrlinge\Gruppe S\Alexander Krawagna\IT-L@B\Ley Borjanka\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.g.resources
+Z:\Lehrlinge\Gruppe S\Alexander Krawagna\IT-L@B\Ley Borjanka\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek_WPF.Properties.Resources.resources
+Z:\Lehrlinge\Gruppe S\Alexander Krawagna\IT-L@B\Ley Borjanka\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.csproj.GenerateResource.cache
+Z:\Lehrlinge\Gruppe S\Alexander Krawagna\IT-L@B\Ley Borjanka\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe S\Alexander Krawagna\IT-L@B\Ley Borjanka\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.exe
+Z:\Lehrlinge\Gruppe S\Alexander Krawagna\IT-L@B\Ley Borjanka\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.pdb
+Z:\Lehrlinge\Gruppe S\Alexander Krawagna\IT-L@B\Ley Borjanka\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF_MarkupCompile.lref
+Z:\Lehrlinge\Gruppe S\Alexander Krawagna\IT-L@B\Ley Borjanka\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.csproj.AssemblyReference.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Biblithek\Biblithek\Bibliothek WPF\bin\Debug\Bibliothek WPF.exe.config
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Biblithek\Biblithek\Bibliothek WPF\bin\Debug\Bibliothek WPF.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Biblithek\Biblithek\Bibliothek WPF\bin\Debug\Bibliothek WPF.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.csproj.AssemblyReference.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\MainWindow.g.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\App.g.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF_MarkupCompile.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF_MarkupCompile.lref
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\MainWindow.baml
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.g.resources
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek_WPF.Properties.Resources.resources
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.csproj.GenerateResource.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\bin\Debug\Bibliothek WPF.exe.config
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\bin\Debug\Bibliothek WPF.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\bin\Debug\Bibliothek WPF.pdb
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.csproj.AssemblyReference.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\MainWindow.g.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\App.g.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF_MarkupCompile.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF_MarkupCompile.lref
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\MainWindow.baml
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.g.resources
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek_WPF.Properties.Resources.resources
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.csproj.GenerateResource.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.exe
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.pdb
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\bin\Debug\Bibliothek WPF.exe.config
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\bin\Debug\Bibliothek WPF.exe
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\bin\Debug\Bibliothek WPF.pdb
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.csproj.AssemblyReference.cache
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\MainWindow.g.cs
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\App.g.cs
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF_MarkupCompile.cache
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF_MarkupCompile.lref
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\MainWindow.baml
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.g.resources
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek_WPF.Properties.Resources.resources
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.csproj.GenerateResource.cache
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.csproj.CoreCompileInputs.cache
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.exe
+\\10.90.10.250\itlabvi\Lehrlinge\Gruppe S\Taylor Kofler\BORL\Softwareentwicklung\C#\WPF\Biblithek\Biblithek\Bibliothek WPF\obj\Debug\Bibliothek WPF.pdb

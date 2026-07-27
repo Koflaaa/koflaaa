@@ -1,0 +1,82 @@
+Odoo Installation 1x1
+
+Kapitel 1: Datenbank Aufsetzung
+
+Schritt 1: Installation von Datenbank-Tool
+	- Installiere das Programm pgAdmin von der offiziellen Webseite
+
+Schritt 2: Server Verbindung
+	- Öffne pgAdmin und klicke auf "Server hinzufügen"/"Add New Server"
+	- Gebe einen Namen für deinen Server ein, solltest du nicht auskennen, klicke unten auf das Fragezeichen-Symbol um auf eine offizielle Anleitung zukommen wie man einen Server 	hinzufügt
+	- Gehe auf das Register "Connection"/"Verbindung" und trage eine Host-Adresse/-Namen (z.B. localhost) ein, sowie den dazugehörigen Port (z.B. 5432). Klicke auf "save"/"speichern".
+
+Schritt 3: Erstellen der Datenbank und des Objekts
+	- Gehe in das Register "Object"/"Objekt" und gehe auf "Create"/"Erstellen" und anschließend auf "Login/Group Role"
+	- Geben in das Namensfeld den Namen für deine Datenbank ein. Da es für das Odoo-Projekt ist nehmen wir "odoo"
+	- Gehe auf "Definition" und gebe ein Passwort für deine Datenbank ein (sofern nötig).
+	- Gehe anschließend auf "Privileges"/"Privilegien" und aktiviere die Felder "Can login?"/"Kann einloggen?" und "Create Database?"/"Erstelle Datenbank?", anschließend klicke auf 	"save"/"speichern"
+
+Kapitel 2: Vorbereitung zur Odoo-Installation
+
+Schritt 1: LogIn/SignUp GitHub Konto
+	- Gehe auf die Webseite von GitHub und erstelle dir ein Konto, solltest du keines haben, und logge dich ein.
+
+Schritt 2: Erstellen des SSH-Key
+	- Öffne die PowerShell indem du in deine Suchleiste "cmd" oder "PowrShell" eingibst.
+	- Gebe folgenden Konsolenbefehl ein: ssh-keygen -t ed25519 -C "deine_GitHub_Konto_email@gmail.com" und benenne die Datei z.B. "SSH_dein_Name"
+		- Sollte der obere Befehl nicht funktioniert haben/du eine Fehlermeldung erhalten hast, versuche diesen Befehl: 
+		ssh-keygen -t rsa -b 4096 -C "deine_GitHub_Konto_email@gmail.com".
+	- Suche den SSH-Key in deinem normalen PC-Laufwerk z.B. C oder Z, etc.
+		- Solltest du ihn nicht gleich finden, versuche "Dieser PC"->"Benutzer"->"dein_Benutzer"->"SSH_dein_Name.pub"
+	- Öffne die .pub Datei z.B. mit dem Windows-Editor und kopiere den Inhalt.
+
+Schritt 3: SSH-Key zu GitHub Konto hinzufügen
+	- Gehe auf dein GitHub-Konto und öffne die Settings/Einstellungen
+	- Gehe auf "SSH und GPG keys"/"SSH und GPG Schlüssel"
+	- Gehe auf "New SSH Key"/"Neuen SSH key hinzufügen" und kopiere den Inhalt deiner .pub Datei hinein und klicke auf speichern
+
+Schritt 4: Vorbereitung von Python
+	- Um mit Odoo arbeite zu können, brauchen wir Python Version 3.10.
+	- Gehe auf die Offizielle Python-Webseite und lade dir die benötigte Python Version runter. Lade den Windowsinstaller (64-bit) oder -(32-bit) herunter. Beachte: Bei Windows-11 ist 	32-bit nicht mehr möglich.
+	- Öffne die Systemumgebungsvariablen, indem zu in der Suchleiste bzw. Start "Systemumgebungsvariablem bearbeiten" eingibst.
+	- Klicke auf Umgebungsvariablen
+	- Suche unter den "Benutzervariablen" nach "Path" und überprüfe ob diese den Python-Pfad beinhalten.
+	- Wenn nicht, suche in den Programm-Files nach dem Python-File mit der Version 3.10 und kopiere dessen Pfad in die "Path"-Variable. Klicke anschließend auf "Ok" um diese zu 	speichern.
+	- Führe den PowerShell-Befehl "py --version" aus, um zu überprüfen welche Python Version aktuell genutzt wird.
+	
+Schritt 5: Vorbereitung von GitBash
+	- Überprüfe ob auf deinem Gerät Git installiert ist. Sollte es nicht installiert sein, gehe auf die offizielle Webseite von Git und installiere es auf dein Gerät.
+	- Suche das Git-File auf deinem Gerät und kopiere den Pfad.
+	- Öffne die Systemumgebungsvariablen und erstelle (falls nicht vorhanden) eine neue Variable nanems "GIT". Füge die kopierte Adresse in die Variable als "Wert" ein.
+	- Öffne Git Bash und führe folgendene Befehle aus:
+		- git config --global user.name "Your Name"
+  		- git config --global user.email "your_github_email@example.com"
+	
+
+Kapitel 3: Odoo Installation
+
+Schritt 1: Odoo zu deinen GitHub hinzufügen
+	- Gehe auf "GitHub.com/odoo/odoo" und klicke auf "Fork".
+	- Öffne PowerShell und klone dir mit folgenden Befehl das odoo-Projekt auf dein Gerät:
+		- git clone git@github.com:odoo/odoo.git
+	- 
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,64 @@
+E:\Visual Studios\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.exe
+E:\Visual Studios\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.deps.json
+E:\Visual Studios\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.runtimeconfig.json
+E:\Visual Studios\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.dll
+E:\Visual Studios\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.pdb
+E:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.csproj.AssemblyReference.cache
+E:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.AssemblyInfoInputs.cache
+E:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.AssemblyInfo.cs
+E:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.csproj.CoreCompileInputs.cache
+E:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.dll
+E:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\refint\Matrizenrechnung2.dll
+E:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.pdb
+E:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.genruntimeconfig.cache
+E:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\ref\Matrizenrechnung2.dll
+F:\Visual Studios\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.exe
+F:\Visual Studios\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.deps.json
+F:\Visual Studios\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.runtimeconfig.json
+F:\Visual Studios\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.dll
+F:\Visual Studios\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.pdb
+F:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.csproj.AssemblyReference.cache
+F:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.AssemblyInfoInputs.cache
+F:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.AssemblyInfo.cs
+F:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.csproj.CoreCompileInputs.cache
+F:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.dll
+F:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\refint\Matrizenrechnung2.dll
+F:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.pdb
+F:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.genruntimeconfig.cache
+F:\Visual Studios\Matrizenrechnung2\obj\Debug\net7.0\ref\Matrizenrechnung2.dll
+F:\Visual Studios\Matrizen\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.exe
+F:\Visual Studios\Matrizen\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.deps.json
+F:\Visual Studios\Matrizen\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.runtimeconfig.json
+F:\Visual Studios\Matrizen\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.dll
+F:\Visual Studios\Matrizen\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.pdb
+F:\Visual Studios\Matrizen\Matrizenrechnung2\bin\Debug\net7.0\MathNet.Numerics.dll
+F:\Visual Studios\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.csproj.AssemblyReference.cache
+F:\Visual Studios\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studios\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.AssemblyInfoInputs.cache
+F:\Visual Studios\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.AssemblyInfo.cs
+F:\Visual Studios\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.csproj.CoreCompileInputs.cache
+F:\Visual Studios\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.csproj.CopyComplete
+F:\Visual Studios\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.dll
+F:\Visual Studios\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\refint\Matrizenrechnung2.dll
+F:\Visual Studios\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.pdb
+F:\Visual Studios\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.genruntimeconfig.cache
+F:\Visual Studios\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\ref\Matrizenrechnung2.dll
+F:\IT-L@B\BORL\Softwareentwicklung\C#\Matrizen\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.exe
+F:\IT-L@B\BORL\Softwareentwicklung\C#\Matrizen\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.deps.json
+F:\IT-L@B\BORL\Softwareentwicklung\C#\Matrizen\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.runtimeconfig.json
+F:\IT-L@B\BORL\Softwareentwicklung\C#\Matrizen\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.dll
+F:\IT-L@B\BORL\Softwareentwicklung\C#\Matrizen\Matrizenrechnung2\bin\Debug\net7.0\Matrizenrechnung2.pdb
+F:\IT-L@B\BORL\Softwareentwicklung\C#\Matrizen\Matrizenrechnung2\bin\Debug\net7.0\MathNet.Numerics.dll
+F:\IT-L@B\BORL\Softwareentwicklung\C#\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.csproj.AssemblyReference.cache
+F:\IT-L@B\BORL\Softwareentwicklung\C#\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.GeneratedMSBuildEditorConfig.editorconfig
+F:\IT-L@B\BORL\Softwareentwicklung\C#\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.AssemblyInfoInputs.cache
+F:\IT-L@B\BORL\Softwareentwicklung\C#\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.AssemblyInfo.cs
+F:\IT-L@B\BORL\Softwareentwicklung\C#\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.csproj.CoreCompileInputs.cache
+F:\IT-L@B\BORL\Softwareentwicklung\C#\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.csproj.CopyComplete
+F:\IT-L@B\BORL\Softwareentwicklung\C#\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.dll
+F:\IT-L@B\BORL\Softwareentwicklung\C#\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\refint\Matrizenrechnung2.dll
+F:\IT-L@B\BORL\Softwareentwicklung\C#\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.pdb
+F:\IT-L@B\BORL\Softwareentwicklung\C#\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\Matrizenrechnung2.genruntimeconfig.cache
+F:\IT-L@B\BORL\Softwareentwicklung\C#\Matrizen\Matrizenrechnung2\obj\Debug\net7.0\ref\Matrizenrechnung2.dll

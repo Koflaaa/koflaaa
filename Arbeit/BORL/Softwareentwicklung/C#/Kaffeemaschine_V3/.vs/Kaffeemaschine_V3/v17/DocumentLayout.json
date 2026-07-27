@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\10.90.10.250\\itlabvi\\Lehrlinge\\Gruppe S\\Taylor Kofler\\BORL\\Softwareentwicklung\\C#\\Kaffeemaschine_V3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F61E9F5-393F-4617-8208-C28A49F8B93B}|Kaffeemaschine_V3.csproj|\\\\10.90.10.250\\itlabvi\\lehrlinge\\gruppe s\\taylor kofler\\borl\\softwareentwicklung\\c#\\kaffeemaschine_v3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\10.90.10.250\\itlabvi\\Lehrlinge\\Gruppe S\\Taylor Kofler\\BORL\\Softwareentwicklung\\C#\\Kaffeemaschine_V3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "\\\\10.90.10.250\\itlabvi\\Lehrlinge\\Gruppe S\\Taylor Kofler\\BORL\\Softwareentwicklung\\C#\\Kaffeemaschine_V3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAYwLYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:34:03.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

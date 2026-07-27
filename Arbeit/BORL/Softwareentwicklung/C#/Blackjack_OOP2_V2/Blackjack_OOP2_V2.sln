@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blackjack_OOP2_V2", "Blackjack_OOP2_V2.csproj", "{D09716F4-5A02-48F4-90D4-31058BCA7919}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projektmappenelemente", "Projektmappenelemente", "{3BB5B6FD-FA40-41F8-B72B-320C1A62C172}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D09716F4-5A02-48F4-90D4-31058BCA7919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09716F4-5A02-48F4-90D4-31058BCA7919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09716F4-5A02-48F4-90D4-31058BCA7919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09716F4-5A02-48F4-90D4-31058BCA7919}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEF1116D-D068-4CE8-8D5C-5D71ADC08059}
+	EndGlobalSection
+EndGlobal
