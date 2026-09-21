@@ -1,0 +1,12 @@
+using System;
+
+namespace integer_beispiel
+{
+  static void Main()
+  {
+    int alter = 0;                                        // integer Variable namens 'alter' wird erstellt und bekommt den Wert 0
+
+    alter = Convert.ToInt32(Console.ReadLine());          // Es wird eine Eingabe erstellt die vom Datentyp string in den Datentyp Integer konvertiert wird
+    Console.WriteLine($"Alter: " + alter);                // Anschließend wird das Alter ausgegeben mit einem Ausgabe-Befehl
+  }
+}

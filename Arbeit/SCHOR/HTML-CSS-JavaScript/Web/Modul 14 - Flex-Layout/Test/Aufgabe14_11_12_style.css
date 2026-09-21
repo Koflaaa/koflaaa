@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+header, nav, main, aside, footer {
+    padding: 20px;
+    color: white;
+}
+
+header { background: #444; order: 1; }
+nav    { background: #666; }
+aside  { background: #999; width: 15%; }
+main   { background: #333; width: 65%; }
+footer { background: #222; order: 5; }
+
+@media (max-width: 850px) {
+    body {
+        display: block;
+    }
+
+    nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        flex-wrap: wrap;
+    }
+
+    header, nav, aside, main, footer {
+        width: 100%;
+        box-sizing: border-box;
+    }
+}

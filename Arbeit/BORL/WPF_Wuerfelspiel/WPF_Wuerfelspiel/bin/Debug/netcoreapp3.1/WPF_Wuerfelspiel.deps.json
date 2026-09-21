@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WPF_Wuerfelspiel/1.0.0": {
+        "runtime": {
+          "WPF_Wuerfelspiel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPF_Wuerfelspiel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

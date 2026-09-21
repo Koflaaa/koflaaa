@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Fragen_App_V1/1.0.0": {
+        "runtime": {
+          "Fragen_App_V1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fragen_App_V1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

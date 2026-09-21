@@ -1,0 +1,35 @@
+section {
+    display: flex;
+    width: 1300px;
+    border: 2px solid black;
+    gap: 10px;
+}
+
+section div {
+    flex-basis: 150px;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+}
+
+section div:nth-child(1) {
+    background-color: red;
+    flex-grow: 2;
+}
+section div:nth-child(2) {
+    background-color: blue;
+    flex-grow: 4;
+}
+section div:nth-child(3) {
+    background-color: green;
+    flex-grow: 3;
+}
+section div:nth-child(4) {
+    background-color: orange;
+    flex-grow: 1;
+}
+section div:nth-child(5) {
+    background-color: purple;
+    flex-grow: 1.5;
+}

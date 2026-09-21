@@ -1,0 +1,14 @@
+Schueler:
+
+Antwort 1: 48
+Antwort 2: 7
+Antwort 3: 41
+Antwort 4: 54
+Antwort 5: 57
+Antwort 6: 151
+
+Buecher:
+
+Antwort 1: 0
+Antwort 2: 392
+Antwort 3: 278

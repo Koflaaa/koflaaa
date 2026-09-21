@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>FLEX</title>
+    <link href="smart-phone-pixabay.png" rel="icon">
+    <link href="layout.css" rel="stylesheet">
+    <link href="flex.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <img src="tablet-pixabay.png" title="Lizenz: Pixabay">
+        <h1>Flex-Layout - Machen Sie die Seite responsiv!</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#test1">Test1</a></li>
+            <li><a href="#test2">Test2</a></li>
+            <li><a href="#test3">Test3</a></li>
+        </ul>
+    </nav>
+    <main>
+        <article id="test1">
+            <h2>Artikel Test1</h2>
+            <p>Ich bin Inhalt eines article-Containers.</p>
+        </article>
+        <article id="test2">
+            <h2>Artikel Test2</h2>
+            <p>Ich bin Inhalt eines article-Containers.</p>
+        </article>
+        <article id="test3">
+            <h2>Artikel Test3</h2>
+            <p>Ich bin Inhalt eines article-Containers.</p>
+        </article>
+    </main>
+    <aside>
+        <img src="smart-phone-pixabay.png" title="Lizenz: Pixabay">
+        <p>Ich bin Inhalt eines ASIDE-Containers.</p>
+    </aside>    
+    <footer>
+        <img src="bigfoot-100-pixabay.png" alt="Comic eines Big Foot-Menschen. Lizenz: Pixabay" title="Lizenz: Pixabay">
+        <p>Mein Name ist Big FOOTer.</p>
+    </footer>
+
+    <script type="text/javascript">
+        if (document.location.hash == "" || document.location.hash == "#")
+          document.location.hash = "#test1";
+      </script>    
+</body>
+</html>

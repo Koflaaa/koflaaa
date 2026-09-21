@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "StreamFile_ding/1.0.0": {
+        "runtime": {
+          "StreamFile_ding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StreamFile_ding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

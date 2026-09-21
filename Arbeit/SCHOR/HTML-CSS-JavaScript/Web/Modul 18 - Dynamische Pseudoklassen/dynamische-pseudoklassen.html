@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Modul 18 · Dynamische Pseudoklassen</title>
+<link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+
+<header>
+  <p class="eyebrow">HTML-/CSS-Kurs · Modul 18</p>
+  <h1>Dynamische <span class="selektor">:pseudoklassen</span><br>zum Anfassen</h1>
+  <p class="intro">Dynamische Pseudoklassen selektieren Elemente nicht nach ihrer Position im
+  Dokument, sondern nach ihrem <strong>aktuellen Zustand</strong> – z.&nbsp;B. „wird gerade berührt“,
+  „hat den Fokus“ oder „enthält einen ungültigen Wert“. Jede Karte auf dieser Seite besitzt oben
+  rechts eine <strong>Zustands-LED</strong>, die ausschließlich über die jeweilige Pseudoklasse
+  geschaltet wird. Probieren Sie alles direkt aus.</p>
+  <p class="hinweis-js">Diese Seite verwendet <b>kein JavaScript</b> – alle Reaktionen sind reines CSS.</p>
+</header>
+
+<main>
+
+<section class="gruppe">
+  <h2>Link-Zustände <small>:link · :visited · :any-link · :target</small></h2>
+  <div class="raster">
+
+    <div class="karte" id="d-link">
+      <span class="led">Zustand</span>
+      <h3>:link &amp; :visited</h3>
+      <p class="erkl">Unterscheidet unbesuchte von bereits besuchten Links. Besuchte Links
+      erscheinen hier violett – abhängig von Ihrem Browser-Verlauf.</p>
+      <div class="buehne">
+        <a href="https://developer.mozilla.org/de/" target="_blank" rel="noopener">MDN Web Docs (vermutlich besucht)</a>
+        <a href="https://example.com/modul18-unbesucht-12345" target="_blank" rel="noopener">Ein sehr wahrscheinlich unbesuchter Link</a>
+      </div>
+      <pre class="code">a<span class="p">:link</span>    { <span class="k">color</span>: blau; }
+a<span class="p">:visited</span> { <span class="k">color</span>: violett; }</pre>
+    </div>
+
+    <div class="karte" id="d-anylink">
+      <span class="led an">Zustand</span>
+      <h3>:any-link</h3>
+      <p class="erkl">Fasst <code>:link</code> und <code>:visited</code> zusammen: trifft auf jedes
+      Element mit <code>href</code> zu – egal ob besucht oder nicht. Die LED ist deshalb dauerhaft an.</p>
+      <div class="buehne">
+        <a href="#nirgendwo">Link mit href → selektiert</a>
+        <a>Anker ohne href → nicht selektiert</a>
+      </div>
+      <pre class="code">a<span class="p">:any-link</span> { <span class="k">text-decoration-thickness</span>: 2px; }</pre>
+    </div>
+
+    <div class="karte" id="d-target">
+      <span class="led">Zustand</span>
+      <h3>:target</h3>
+      <p class="erkl">Trifft auf das Element zu, dessen <code>id</code> gerade als Fragment in der
+      URL steht (<code>#kapitel-2</code>). Klicken Sie einen Sprunglink:</p>
+      <div class="buehne">
+        <p><a href="#kapitel-1">→ Kapitel 1</a> &nbsp; <a href="#kapitel-2">→ Kapitel 2</a></p>
+        <div class="zielbox" id="kapitel-1">#kapitel-1</div>
+        <div class="zielbox" id="kapitel-2">#kapitel-2</div>
+      </div>
+      <pre class="code"><span class="p">:target</span> { <span class="k">background</span>: hervorgehoben; }</pre>
+    </div>
+
+  </div>
+</section>
+
+<!-- ========================================================= -->
+<section class="gruppe">
+  <h2>Interaktion <small>:hover · :active · :focus · :focus-visible · :focus-within</small></h2>
+  <div class="raster">
+
+    <div class="karte" id="d-hover">
+      <span class="led">Zustand</span>
+      <h3>:hover</h3>
+      <p class="erkl">Aktiv, solange der Mauszeiger über dem Element steht. Auf Touch-Geräten
+      gibt es diesen Zustand nicht wirklich (siehe Grenzen unten).</p>
+      <div class="buehne">
+        <div class="hoverfeld">Maus hierher bewegen</div>
+      </div>
+      <pre class="code">.feld<span class="p">:hover</span> { <span class="k">background</span>: akzent; }</pre>
+    </div>
+
+    <div class="karte" id="d-active">
+      <span class="led">Zustand</span>
+      <h3>:active</h3>
+      <p class="erkl">Aktiv nur während des Drückens (zwischen mousedown und mouseup).
+      Halten Sie die Maustaste gedrückt, um den Zustand zu „verlängern“.</p>
+      <div class="buehne">
+        <button type="button">Gedrückt halten</button>
+      </div>
+      <pre class="code">button<span class="p">:active</span> { <span class="k">transform</span>: translateY(1px); }</pre>
+    </div>
+
+    <div class="karte" id="d-focus">
+      <span class="led">Zustand</span>
+      <h3>:focus</h3>
+      <p class="erkl">Aktiv, solange das Element den Tastatur-/Eingabefokus besitzt –
+      egal ob per Klick oder per <kbd>Tab</kbd> erreicht.</p>
+      <div class="buehne">
+        <input type="text" placeholder="Hier klicken oder hintabben …">
+      </div>
+      <pre class="code">input<span class="p">:focus</span> { <span class="k">border-color</span>: akzent; }</pre>
+    </div>
+
+    <div class="karte" id="d-fv">
+      <span class="led">Zustand</span>
+      <h3>:focus-visible</h3>
+      <p class="erkl">Wie <code>:focus</code>, aber nur wenn der Browser einen sichtbaren
+      Fokusring für sinnvoll hält – typischerweise bei Tastaturbedienung.
+      Vergleichen Sie: Button <em>anklicken</em> vs. per <kbd>Tab</kbd> <em>anspringen</em>.</p>
+      <div class="buehne">
+        <button type="button">Klick vs. Tab</button>
+      </div>
+      <pre class="code">button<span class="p">:focus-visible</span> { <span class="k">outline</span>: 3px solid akzent; }</pre>
+    </div>
+
+    <div class="karte" id="d-fw">
+      <span class="led">Zustand</span>
+      <h3>:focus-within</h3>
+      <p class="erkl">Trifft auf ein Element zu, sobald <em>irgendein Nachfahre</em> den Fokus
+      hat. Ideal, um ganze Formulargruppen hervorzuheben.</p>
+      <div class="buehne">
+        <div class="fw-gruppe">
+          <label for="fw-name">Name</label>
+          <input id="fw-name" type="text" placeholder="Feld 1">
+          <label for="fw-ort">Ort</label>
+          <input id="fw-ort" type="text" placeholder="Feld 2">
+        </div>
+      </div>
+      <pre class="code">.gruppe<span class="p">:focus-within</span> { <span class="k">border-color</span>: akzent; }</pre>
+    </div>
+  </div>
+</section>
+
+<!-- ========================================================= -->
+<section class="gruppe">
+  <h2>Formular-Zustände <small>:checked · :enabled · :disabled · :placeholder-shown</small></h2>
+  <div class="raster">
+
+    <div class="karte" id="d-checked">
+      <span class="led">Zustand</span>
+      <h3>:checked</h3>
+      <p class="erkl">Aktiv bei angehakten Checkboxen, gewählten Radiobuttons und
+      ausgewählten <code>&lt;option&gt;</code>-Elementen. In Kombination mit
+      Geschwister-Selektoren die Basis vieler CSS-only-Schalter.</p>
+      <div class="buehne">
+        <label class="schalter"><input type="checkbox"> AGB akzeptieren</label>
+        <span class="antwort">→ Status wird per CSS angezeigt</span>
+      </div>
+      <pre class="code">input<span class="p">:checked</span> ~ .antwort { <span class="k">color</span>: grün; }</pre>
+    </div>
+
+    <div class="karte" id="d-en">
+      <span class="led an">Zustand</span>
+      <h3>:enabled &amp; :disabled</h3>
+      <p class="erkl">Unterscheidet bedienbare von gesperrten Formularelementen.
+      Gesperrte Felder erhalten hier automatisch eine gestrichelte Optik.</p>
+      <div class="buehne">
+        <input type="text" value="Bedienbar (:enabled)">
+        <input type="text" value="Gesperrt (:disabled)" disabled>
+      </div>
+      <pre class="code">input<span class="p">:enabled</span>  { <span class="k">border-color</span>: grün; }
+input<span class="p">:disabled</span> { <span class="k">background</span>: grau; }</pre>
+    </div>
+
+    <div class="karte" id="d-ps">
+      <span class="led">Zustand</span>
+      <h3>:placeholder-shown</h3>
+      <p class="erkl">Aktiv, solange ein Eingabefeld leer ist und deshalb seinen
+      Platzhaltertext anzeigt. Tippen Sie etwas – die Markierung verschwindet.</p>
+      <div class="buehne">
+        <input type="text" placeholder="Noch leer …">
+      </div>
+      <pre class="code">input<span class="p">:placeholder-shown</span> { <span class="k">border-color</span>: gelb; }</pre>
+    </div>
+
+  </div>
+</section>
+
+<!-- ========================================================= -->
+<section class="gruppe">
+  <h2>Validierung <small>:valid · :invalid · :in-range · :out-of-range</small></h2>
+  <div class="raster">
+
+    <div class="karte" id="d-valid">
+      <span class="led">Zustand</span>
+      <h3>:valid &amp; :invalid</h3>
+      <p class="erkl">Reagiert live auf die HTML5-Formularvalidierung
+      (<code>type</code>, <code>required</code>, <code>pattern</code> …).
+      Geben Sie eine gültige E-Mail-Adresse ein:</p>
+      <div class="buehne">
+        <input type="email" required placeholder="name@beispiel.de">
+      </div>
+      <pre class="code">input<span class="p">:valid</span>   { <span class="k">border-color</span>: grün; }
+input<span class="p">:invalid</span> { <span class="k">border-color</span>: rot; }</pre>
+    </div>
+
+    <div class="karte" id="d-range">
+      <span class="led">Zustand</span>
+      <h3>:in-range &amp; :out-of-range</h3>
+      <p class="erkl">Für Zahlenfelder mit <code>min</code>/<code>max</code>.
+      Erlaubt sind hier Werte von 1 bis 10 – probieren Sie z.&nbsp;B. 42.</p>
+      <div class="buehne">
+        <input type="number" min="1" max="10" value="5">
+      </div>
+      <pre class="code">input<span class="p">:in-range</span>     { <span class="k">border-color</span>: grün; }
+input<span class="p">:out-of-range</span> { <span class="k">border-color</span>: rot; }</pre>
+    </div>
+
+  </div>
+</section>
+
+<!-- ========================================================= -->
+<section class="grenzen">
+  <h2>Grenzen &amp; Praxisprobleme</h2>
+
+  <article class="warn">
+    <h3>:hover – existiert auf Touch-Geräten nicht wirklich</h3>
+    <p>Es gibt keinen Mauszeiger, der „über“ einem Element schweben kann. Mobile Browser
+    simulieren :hover beim Antippen, was zum „Sticky-Hover“-Problem führt: Der Zustand bleibt
+    nach dem Tippen hängen, bis woanders getippt wird. Wichtige Inhalte oder Funktionen dürfen
+    daher nie ausschließlich über :hover erreichbar sein – Tastatur- und Touch-Nutzer würden
+    ausgeschlossen. Abhilfe: <code>@media (hover: hover)</code> und Fokus-Stile als Ergänzung.</p>
+  </article>
+
+  <article class="warn">
+    <h3>:visited – aus Datenschutzgründen stark beschnitten</h3>
+    <p>Früher konnte man über :visited den Browser-Verlauf fremder Nutzer ausspähen
+    („History Sniffing“): Eine Seite legte tausende unsichtbare Links an und las per Skript aus,
+    welche davon „besucht“ gestylt wurden. Browser erlauben für :visited deshalb heute nur noch
+    wenige Farb-Eigenschaften (u.&nbsp;a. color, background-color) – keine Größen, Bilder oder
+    Positionen – und Skripte erhalten beim Auslesen bewusst die Werte des unbesuchten Zustands.
+    Viele kreative :visited-Ideen funktionieren deshalb schlicht nicht.</p>
+  </article>
+
+  <article>
+    <h3>:focus vs. :focus-visible</h3>
+    <p>Ein Fokusring bei jedem Mausklick wirkt für viele störend, weshalb er früher oft per
+    <code>outline: none</code> entfernt wurde – eine Katastrophe für Tastaturnutzer.
+    :focus-visible löst den Konflikt: Der Ring erscheint nur, wenn er gebraucht wird.
+    Die Entscheidung trifft allerdings die Heuristik des Browsers, nicht der Autor.</p>
+  </article>
+
+  <article>
+    <h3>:target – nur ein Fragment pro Seite</h3>
+    <p>Es kann immer nur ein Element gleichzeitig :target sein, der Zustand hängt an der URL
+    und geht bei Navigation verloren. Für CSS-only-Tabs oder -Overlays ist :target deshalb
+    eher ein Trick als eine robuste Lösung – u.&nbsp;a. weil jeder Klick einen Verlaufseintrag
+    erzeugt und die Seite zum Ziel scrollt.</p>
+  </article>
+
+  <article>
+    <h3>:invalid – Timing als UX-Problem</h3>
+    <p>:invalid greift sofort beim Laden: Ein leeres Pflichtfeld ist bereits ungültig, bevor
+    der Nutzer überhaupt tippen konnte – das Formular „schreit“ ihn von Anfang an rot an.
+    In der Praxis kombiniert man deshalb z.&nbsp;B. mit :placeholder-shown, :focus oder den
+    neueren Pseudoklassen :user-invalid/:user-valid, die erst nach einer Interaktion greifen.</p>
+  </article>
+
+  <article>
+    <h3>:enabled/:disabled – Zustand kommt aus HTML, nicht aus CSS</h3>
+    <p>CSS kann den disabled-Zustand nur darstellen, nicht ändern. Ein echtes
+    „Feld per Checkbox freischalten“ braucht JavaScript – die Pseudoklasse übernimmt dann
+    ausschließlich die visuelle Rückmeldung.</p>
+  </article>
+</section>
+
+</main>
+
+<footer>
+  Modul 18 · Dynamische Pseudoklassen · Beispielseite ohne JavaScript – alle Zustands-LEDs
+  werden über :has() und die jeweilige Pseudoklasse geschaltet.
+</footer>
+
+</body>
+</html>

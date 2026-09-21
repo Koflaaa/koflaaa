@@ -1,0 +1,140 @@
+<html lang="de-at">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>Berechnungen mit Lorentzfaktor</title>
+    <style>
+        #B1,#B2,#B3
+        {
+            padding: 5px;
+        }
+        #P1 
+        {
+            margin-left: 20px;
+            color: blue;
+        }
+        #P2
+        {
+            margin-left: 20px;
+        }
+        td 
+        {
+            vertical-align: top;
+            width: 360px;
+        }
+        hr {
+            width: 50%;
+            color: darkblue;
+        }
+        img {
+            width: 100%;
+        }
+        body
+        {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        main
+        {
+            width: 50em;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 20px;
+            background-color: rgb(196, 196, 196);
+            min-height: 640px;
+        }
+        #cpr
+        {
+            color: rgb(64, 72, 73);
+            font-size: 0.5em;
+        }
+
+    </style>
+    <script> <!--
+        function pfg(a) {
+           var c = 299792.458;                 // c = Lichtgeschwindigkeit in km/s
+           var v = (c / 100) * a;              // Prozent der Lichtgeschwindigkeit in km/s
+           var f = Math.sqrt(1-(Math.pow(v,2)/Math.pow(c,2)))          //Lorentzfaktor
+           var al = f * 87;                    // Relative Länge in m
+           var l = 87 - al;                    // Längen Änderung in m
+           var t = 365.25 * f;                 // Relative Zeit in Rakete in Tage
+           var s = 24 * t;                     // Relative Zeit in Rakete in Stunden
+           var Meldung2 = "Geschwindigkeit = " + v.toFixed(4) + " km/s";       
+           var Meldung3 = "Der Lorentzfaktor beträgt: " + f.toFixed(7);
+           var Meldung4 = "Die Länge reduziert sich um " + l.toFixed(7) + " m";
+           var Meldung5 = "Die aktuelle Länge beträgt: " + al.toFixed(7) + " m";
+           var Meldung6 = "1 Jahr dauert in der Rakete: " + t.toFixed(7) + " Tage";
+           var Meldung7 = "1 Jahr dauert in der Rakete: " + s.toFixed(7) + " Stunden";
+           document.getElementById("pfg2").innerHTML = Meldung2;
+           document.getElementById("pfg3").innerHTML = Meldung3;
+           document.getElementById("pfg4").innerHTML = Meldung4;
+           document.getElementById("pfg5").innerHTML = Meldung5;
+           document.getElementById("pfg6").innerHTML = Meldung6;
+           document.getElementById("pfg7").innerHTML = Meldung7;
+        }
+  // -->  </script>
+</head>
+<body>
+    <main>
+        <h1>Berechnungen mit Lorentzfaktor (Realtitivitätstheorie): </h1>
+        <table>
+            <tr>
+                <td>
+                    <img id="Bild1" src="gfx/raketchen.png" alt="Bild eines Raketchens">
+                </td>
+                <td>
+                    <p id="P1">Die Rakete: </p>
+                    <p id="P2">Gewicht: 160 Tonnen<br>Länge: 87 m <br>Durchmesser: 12 m <br> Max.V: ca. 99.9999999% c</p>
+                    <hr>
+                    <p id="P1">Geschwindigkeit:</p>
+                    <p id="P2">        
+                        <div id="B1">
+                        <select size="1" onchange="pfg(this.value)">
+                        <option selected value="10">&nbsp;10%</option>
+                        <option value="20">&nbsp;20%</option>
+                        <option value="30">&nbsp;30%</option>
+                        <option value="40">&nbsp;40%</option>
+                        <option value="50">&nbsp;50%</option>
+                        <option value="60">&nbsp;60%</option>
+                        <option value="70">&nbsp;70%</option>
+                        <option value="80">&nbsp;80%</option>
+                        <option value="90">&nbsp;90%</option>
+                        <option value="95">&nbsp;95%</option>
+                        <option value="99.9">&nbsp;99.9%</option>
+                        <option value="99.99">&nbsp;99.99%</option>
+                        <option value="99.999">&nbsp;99.999%</option>
+                        <option value="99.9999">&nbsp;99.9999%</option>
+                        <option value="99.99999">&nbsp;99.99999%</option>
+                        <option value="99.999999">&nbsp;99.999999%</option>
+                        <option value="99.9999999">&nbsp;99.9999999%</option>
+                        <option value="100">&nbsp;100%</option>
+                        </select>
+                        der Lichtgeschwindigkeit (c).
+                        </div>
+                    </p>
+                </td>
+            </tr>
+        </table>
+        <br><hr><br>
+        <table>
+            <tr>
+                <td>
+                    <p>Relative Daten: </p>
+                    <img src="gfx/Lorentzfaktor.png" alt="Lorentzfaktor">
+                </td>
+                <td>
+                    <p id="pfg2"></p>
+                    <p id="pfg3"></p>
+                    <p id="pfg4"></p>
+                    <p id="pfg5"></p>
+                    <p id="pfg6"></p>
+                    <p id="pfg7"></p>            
+                </td>
+            </tr>
+        </table> 
+        <br><p id="cpr">(C) 2023 TRK & KEW</p>
+    </main>
+</body>
+</html>

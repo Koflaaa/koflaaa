@@ -1,0 +1,172 @@
+/* Import der Schriftart */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+
+/* Grundlayout */
+* { box-sizing: border-box; }
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  background-color: #fff;
+  color: rgba(0, 0, 0, 0.85);
+}
+
+main {
+  margin: 50px auto;
+  max-width: 1200px;
+  box-shadow: 0 10px 40px rgba(100, 100, 200, 0.651);
+  background: url("gfx/bild.png");
+  border-radius: 12px;
+  padding: 1.5rem 1.5rem 2rem;
+}
+
+header {
+  margin: 0 auto 1rem;
+  text-align: center;
+}
+header h1 {
+  margin: 0.5rem 0 0;
+  padding-top: 0.25rem;
+  font-weight: 700;
+}
+
+nav {
+  background: rgba(255, 255, 255, 0.8);
+  font-size: 14px;
+  text-align: center;
+  padding: 6px 0;
+  box-shadow: 0 6px 20px rgba(230, 140, 200, 0.596);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0.4em 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px 16px;
+}
+nav li {
+  display: inline-flex;
+}
+nav a {
+  display: inline-block;
+  padding: 6px 10px;
+  border-radius: 8px;
+  text-decoration: none;
+  color: #333;
+  transition: background-color .2s ease, color .2s ease, transform .1s ease;
+}
+nav a:hover { background: rgba(120, 80, 200, 0.08); color: rgb(120, 80, 200); }
+nav a:active { transform: scale(0.98); }
+
+/* Karten-Style */
+article {
+  background: #fafafa;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;     /* Inhalte untereinander */
+  justify-content: flex-start;/* Text startet oben */
+  min-height: 320px;          /* Grundhöhe für Gleichmäßigkeit */
+}
+
+article h2, article h3, article h4 {
+  text-align: center;
+  margin: 0.25rem 0 0.75rem;
+  color: rgba(0, 0, 0, 0.85);
+}
+article h2 { margin-top: 0; }
+
+p {
+  margin: 0.75rem 0;
+  text-align: justify;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* Listen */
+ul, ol { margin: 0.5rem 0 0.75rem 1.25rem; }
+ol li { margin: 0.25rem 0; }
+li strong { font-size: 16px; line-height: 1.4; }
+
+
+/* Links im Inhalt */
+a { color: #333; transition: color .2s ease; }
+
+a:hover { color: rgb(120, 80, 200); }
+
+/* Code/Pre */
+code, pre {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+  font-size: .95rem;
+}
+
+pre {
+  background: #fff;
+  border: 1px solid rgba(0,0,0,0.06);
+  border-radius: 8px;
+  padding: 0.75rem;
+  overflow: auto;
+}
+
+/* Bilder/Figure – stabil, bricht Layout nicht */
+figure {
+  margin: 0.5rem 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+img {
+  display: block;
+  width: 300px;        /* feste Breite, verhindert „Springen“ */
+  height: 300px;       /* feste Höhe + Objektfüllung */
+  object-fit: cover;   /* schneidet proportional zu */
+  border-radius: 15%;
+  box-shadow: 0 10px 30px rgba(200, 90, 90, 0.74);
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background: #333;
+  box-shadow: 0 2px 5px rgba(143, 19, 19, 0.562);
+  margin: 30px 0;
+}
+
+figcaption { margin-top: 0.75rem; }
+
+/* Spezielle Bereiche */
+#Stammdaten { white-space: pre-line; text-align: center; }
+#IMPRESSUM { text-align: left; white-space: pre-line; }
+address { font-style: normal; line-height: 1.6; }
+
+/* Footer */
+footer {
+  font-size: 14px;
+  text-align: center;
+  padding: 1.25rem 0 0.75rem;
+  color: #555;
+}
+footer h2 { font-size: 1.05rem; margin: 0.2rem 0; }
+footer a { text-decoration: none; }
+
+/* Responsiveness */
+@media (max-width: 768px) {
+  main { max-width: 95%; padding: 1rem; }
+  img { width: 180px; height: 180px; }
+}

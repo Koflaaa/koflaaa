@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FRAME GUID="2FB25471-B62C-4EE6-BD43-F819C095ACF8" FORMAT="0000" APP_VERSION="2.2.0.8" CHECKSUM="043D3FC5D70629C2">
+  <PROJECT FORMAT="1.00" NAME="Fragen-App" AUTHOR="Kofler" CREATED="2025.05.26 09:13:43" MODIFIED="2025.05.26 09:25:46">
+    <DIAGRAMS>
+      <DIAGRAM FORMAT="1.00" ID="0" NAME="Fragen App" CREATED="2025.05.26 09:13:48" MODIFIED="2025.05.26 09:25:46">
+        <LAYOUT FORMAT="1.00" COLUMNS="5" ROWS="11">
+          <ENTRIES>
+            <ENTRY COLUMN="0" ROW="3">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="45">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="6">
+              <FIGURE SUBTYPE="PapActivity" FORMAT="1.00" ID="48">
+                <TEXT><![CDATA[Laden von neuer Frage + Antwortmöglichkeiten]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="0" ROW="8">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="56">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="0" ANCHOR="True">
+              <FIGURE SUBTYPE="PapTitle" FORMAT="1.00" ID="0">
+                <TEXT><![CDATA[Fragen App]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="1">
+              <FIGURE SUBTYPE="PapStart" FORMAT="1.00" ID="1">
+                <TEXT><![CDATA[Start]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="2">
+              <FIGURE SUBTYPE="PapLoopStart" FORMAT="1.00" ID="52" ASSOCIATE="53">
+                <TEXT><![CDATA[Solange Array/liste mit Fragen nicht 0]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="3">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="64">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="4">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="4">
+                <TEXT><![CDATA[Ausgabe von Fragetext + 4 Antwortmöglichkeiten]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="5">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="39">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="6">
+              <FIGURE SUBTYPE="PapInput" FORMAT="1.00" ID="6">
+                <TEXT><![CDATA[Eingabe von Antwortoption (Single Choice)]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="7">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="8">
+                <TEXT><![CDATA[Antwort 1 richtig?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="8">
+              <FIGURE SUBTYPE="PapOutput" FORMAT="1.00" ID="42">
+                <TEXT><![CDATA[Ausgabe von Erfolgsnachricht Richtige Fragen+1]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="9">
+              <FIGURE SUBTYPE="PapLoopEnd" FORMAT="1.00" ID="53" ASSOCIATE="52">
+                <TEXT><![CDATA[Wenn 0 dann break bzw. ende]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="1" ROW="10">
+              <FIGURE SUBTYPE="PapEnd" FORMAT="1.00" ID="2">
+                <TEXT><![CDATA[Ende]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="2">
+              <FIGURE SUBTYPE="PapComment" FORMAT="1.00" ID="61">
+                <TEXT><![CDATA[while]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="7">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="12">
+                <TEXT><![CDATA[Antwort 2 richtig?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="2" ROW="8">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="13">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="7">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="20">
+                <TEXT><![CDATA[Antwort 3 richtig?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="3" ROW="8">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="21">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="5">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="34">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="7">
+              <FIGURE SUBTYPE="PapCondition" FORMAT="1.00" ID="26">
+                <TEXT><![CDATA[Antwort 4 richtig?]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+            <ENTRY COLUMN="4" ROW="8">
+              <FIGURE SUBTYPE="PapConnector" FORMAT="1.00" ID="27">
+                <TEXT><![CDATA[]]></TEXT>
+              </FIGURE>
+            </ENTRY>
+          </ENTRIES>
+        </LAYOUT>
+        <CONNECTIONS>
+          <CONNECTION FORMAT="1.00" ID="3" FROM="1" TO="52" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="40" FROM="39" TO="6" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="7" FROM="6" TO="8" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="9" FROM="8" TO="42" TEXT="ja" />
+          <CONNECTION FORMAT="1.00" ID="11" FROM="8" TO="12" TEXT="nein" />
+          <CONNECTION FORMAT="1.00" ID="14" FROM="12" TO="13" TEXT="ja" />
+          <CONNECTION FORMAT="1.00" ID="60" FROM="53" TO="2" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="17" FROM="13" TO="42" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="19" FROM="12" TO="20" TEXT="nein" />
+          <CONNECTION FORMAT="1.00" ID="22" FROM="20" TO="21" TEXT="ja" />
+          <CONNECTION FORMAT="1.00" ID="23" FROM="21" TO="13" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="25" FROM="20" TO="26" TEXT="nein" />
+          <CONNECTION FORMAT="1.00" ID="28" FROM="26" TO="27" TEXT="ja" />
+          <CONNECTION FORMAT="1.00" ID="29" FROM="27" TO="21" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="31" FROM="26" TO="34" TEXT="nein" />
+          <CONNECTION FORMAT="1.00" ID="63" FROM="42" TO="56" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="5" FROM="4" TO="39" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="41" FROM="34" TO="39" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="59" FROM="48" TO="45" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="37" FROM="52" TO="64" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="57" FROM="56" TO="48" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="65" FROM="64" TO="4" TEXT="" />
+          <CONNECTION FORMAT="1.00" ID="66" FROM="45" TO="64" TEXT="" />
+        </CONNECTIONS>
+      </DIAGRAM>
+    </DIAGRAMS>
+  </PROJECT>
+</FRAME>

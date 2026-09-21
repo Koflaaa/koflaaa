@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+
+    <!-- Titel der Präsentations-Webseite -->
+    <title>Modul 15 – CSS Grid Übungen</title>
+
+    <!-- Einbinden der externen CSS-Datei -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ===================== SEITENHEADER ===================== -->
+<!-- Typenselektor: header -->
+<header>
+    <h1>CSS Grid – Übungsaufgaben 15.1–15.6</h1>
+    <p>Demoseite ohne Klassenselektoren</p>
+</header>
+
+<!-- ===================== AUFGABE 15.1 ===================== -->
+<section id="aufgabe15-1">
+    <h2>Aufgabe 15.1 – Eigenschaft <code>order</code></h2>
+
+    <!-- Grid-Container -->
+    <div id="order-demo">
+
+        <!-- Grid-Items -->
+        <!-- IDs werden verwendet, um order gezielt zu setzen -->
+        <div id="a">A (order: 2)</div>
+        <div id="b">B (order: 1)</div>
+        <div id="c">C (order: 3)</div>
+
+    </div>
+</section>
+
+<!-- ===================== AUFGABE 15.2 ===================== -->
+<section id="aufgabe15-2">
+    <h2>Aufgabe 15.2 – Grid ohne Item-Formatierung</h2>
+
+    <!-- Nur der Container ist ein Grid -->
+    <!-- Die Items werden automatisch platziert -->
+    <div id="auto-grid">
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+    </div>
+</section>
+
+<!-- ===================== AUFGABE 15.3 ===================== -->
+<section id="aufgabe15-3">
+    <h2>Aufgabe 15.3 – <code>grid-column: 1 / 5</code></h2>
+
+    <!-- Grid mit nur 3 Spalten -->
+    <div id="span-grid">
+
+        <!-- Dieses Element spannt über mehr Spalten -->
+        <!-- CSS Grid erzeugt implizite Spalten -->
+        <div>Ich spanne über mehrere Spalten</div>
+
+    </div>
+</section>
+
+<!-- ===================== AUFGABE 15.4 ===================== -->
+<section id="aufgabe15-4">
+    <h2>Aufgabe 15.4 – Menü mit runden Kacheln</h2>
+
+    <!-- nav als Grid-Container -->
+    <nav id="menu">
+
+        <!-- a-Elemente sind Grid-Items -->
+        <!-- Funktionierende Links sind laut Aufgabe nicht notwendig -->
+        <a href="#">1</a><a href="#">2</a><a href="#">3</a><a href="#">4</a>
+        <a href="#">5</a><a href="#">6</a><a href="#">7</a><a href="#">8</a>
+        <a href="#">9</a><a href="#">10</a><a href="#">11</a><a href="#">12</a>
+        <a href="#">13</a><a href="#">14</a><a href="#">15</a><a href="#">16</a>
+
+    </nav>
+</section>
+
+<!-- ===================== AUFGABE 15.5 ===================== -->
+<section id="aufgabe15-5">
+    <h2>Aufgabe 15.5 – Beispiel-Grid-Layout</h2>
+
+    <!-- Haupt-Grid-Container -->
+    <div id="layout">
+
+        <!-- Semantische HTML5-Elemente -->
+        <header>Header</header>
+        <nav>Navigation</nav>
+        <main>Hauptteil – Lorem ipsum dolor sit amet</main>
+        <aside>Aside</aside>
+        <footer>Footer</footer>
+
+    </div>
+</section>
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\bin\Debug\netcoreapp3.1\WPF_Wuerfelspiel.exe
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\bin\Debug\netcoreapp3.1\WPF_Wuerfelspiel.deps.json
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\bin\Debug\netcoreapp3.1\WPF_Wuerfelspiel.runtimeconfig.json
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\bin\Debug\netcoreapp3.1\WPF_Wuerfelspiel.runtimeconfig.dev.json
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\bin\Debug\netcoreapp3.1\WPF_Wuerfelspiel.dll
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\bin\Debug\netcoreapp3.1\WPF_Wuerfelspiel.pdb
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\WPF_Wuerfelspiel.csproj.AssemblyReference.cache
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\App.g.cs
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\WPF_Wuerfelspiel_MarkupCompile.cache
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\WPF_Wuerfelspiel_MarkupCompile.lref
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\MainWindow.baml
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\WPF_Wuerfelspiel.g.resources
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\WPF_Wuerfelspiel.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\WPF_Wuerfelspiel.AssemblyInfoInputs.cache
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\WPF_Wuerfelspiel.AssemblyInfo.cs
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\WPF_Wuerfelspiel.csproj.CoreCompileInputs.cache
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\WPF_Wuerfelspiel.dll
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\WPF_Wuerfelspiel.pdb
+Z:\Lehrlinge\Gruppe R\Sarah Hochmaier\Software\Brojanka Ley\WPF\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\WPF_Wuerfelspiel.genruntimeconfig.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\WPF_Wuerfelspiel\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\WPF_Wuerfelspiel.csproj.AssemblyReference.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\WPF_Wuerfelspiel\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\WPF_Wuerfelspiel\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\App.g.cs
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\WPF_Wuerfelspiel\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\WPF_Wuerfelspiel_MarkupCompile.cache
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\WPF_Wuerfelspiel\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\WPF_Wuerfelspiel_MarkupCompile.lref
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\WPF_Wuerfelspiel\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\WPF_Wuerfelspiel.dll
+Z:\Lehrlinge\Gruppe S\Taylor Kofler\WPF_Wuerfelspiel\WPF_Wuerfelspiel\obj\Debug\netcoreapp3.1\WPF_Wuerfelspiel.pdb

@@ -1,0 +1,45 @@
+Programmbeschreibung:
+
+Titel: Rechentrainer 1×1
+
+Kurzbeschreibung:
+Das Programm „Rechentrainer 1×1“ ist ein Lernprogramm zur Übung des kleinen Einmaleins. Es stellt dem Benutzer eine festgelegte Anzahl an zufälligen Multiplikationsaufgaben und überprüft die eingegebenen Antworten auf Korrektheit. Nach Abschluss wird angezeigt, wie viele Aufgaben richtig gelöst wurden.
+
+Funktionen:
+
+Zufällige Multiplikationsaufgaben mit Zahlen von 1 bis 11.
+
+Eingabekontrolle für die Anzahl der Aufgaben (nur ganze Zahlen erlaubt).
+
+Fehlerbehandlung bei falscher Eingabe von Ergebnissen.
+
+Rückmeldung zu jeder Aufgabe (richtig oder falsch).
+
+Abschlussmeldung mit Gesamtergebnis.
+
+Dokumenation:
+
+🔹 Modul: random
+Wird verwendet, um zufällige Zahlen für die Aufgaben zu erzeugen.
+
+🔹 Benutzereingabe: wiederholungszahl
+Ein while True-Block prüft, ob der Benutzer eine gültige ganze Zahl eingegeben hat. Wenn nicht, wird eine Fehlermeldung ausgegeben und die Eingabe wiederholt.
+
+🔹 Hauptschleife: while index < wiederholungszahl
+Iteriert durch die gewünschte Anzahl an Aufgaben:
+
+Generiert zwei Zufallszahlen zwischen 1 und 11.
+
+Zeigt eine Multiplikationsfrage an.
+
+Liest die Benutzereingabe ein und prüft diese.
+
+Gibt Rückmeldung, ob die Antwort korrekt war.
+
+Zählt korrekte Antworten mit richtige_antworten.
+
+🔹 Eingabeprüfung: try-except
+Falls der Benutzer eine ungültige Eingabe (z. B. Buchstaben) macht, wird der Fehler abgefangen und die Aufgabe wird nicht gezählt, sondern wiederholt.
+
+🔹 Abschluss:
+Am Ende des Programms wird die Anzahl der richtig gelösten Aufgaben ausgegeben.
