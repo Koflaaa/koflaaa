@@ -1,6 +1,0 @@
-1) Begriffe recherchieren + Beispiele
--> Computing
--> Computational Thinking (Analytisches und logisches Denken)
--> Code, Quellcode, Maschinencode
--> Programm, Programmbeschreibung, Programmspezifizierung
--> Unterschied zwischen formaler und natürlicher Sprache

@@ -1,4 +1,0 @@
-1. Wozu wird eine Firewall verwendet
-2. Was ist ein Webservice
-3. Was bedeutet der begriff "CMS"
-4. Was bedeutet die Abkürzung SSS
